@@ -18,7 +18,7 @@ jobs:
         fetch-depth: 0
     - name: Fetch data
       run: |-
-        curl curl https://apps.skyharbor.com/flightinformation | jq . > data.json
+        curl https://apps.skyharbor.com/flightinformation | jq . > data.json
         cp data.json daily/$(TZ=America/Phoenix date +%F).json
     - name: Commit and push if it changed
       run: |-

@@ -844,13 +844,13 @@
     "ScheduledDateTime": "6:05 AM",
     "Terminal": "4",
     "Gate": "D7",
-    "Status": "Now 6:25 AM",
+    "Status": "Now 6:21 AM",
     "StatusCode": "ON",
     "BagClaim": "6",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
-    "Estimated": "6:25 AM",
+    "Estimated": "6:21 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
@@ -1826,7 +1826,7 @@
     "Gate": "A25",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "5",
+    "BagClaim": "7",
     "CodeShares": [
       "ALASKA AIRLINES #6345"
     ],
@@ -1966,7 +1966,7 @@
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
-    "Estimated": "7:01 AM",
+    "Estimated": "7:04 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
@@ -2052,7 +2052,7 @@
     "Gate": "C18",
     "Status": "Now 8:03 AM",
     "StatusCode": "DL",
-    "BagClaim": "",
+    "BagClaim": "4",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -2124,7 +2124,7 @@
     ],
     "AD": "A",
     "Actual": "",
-    "Estimated": "7:15 AM",
+    "Estimated": "7:09 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
@@ -2485,7 +2485,7 @@
     "Gate": "A10",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "7",
+    "BagClaim": "5",
     "CodeShares": [
       "ALASKA AIRLINES #6408"
     ],
@@ -2827,7 +2827,7 @@
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
-    "Estimated": "7:30 AM",
+    "Estimated": "7:22 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
@@ -2919,7 +2919,7 @@
     ],
     "AD": "A",
     "Actual": "",
-    "Estimated": "7:33 AM",
+    "Estimated": "7:31 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
@@ -3631,50 +3631,6 @@
     "TimeSortKey": 159
   },
   {
-    "ID": 1081786,
-    "Flightnumber": "769",
-    "Airline": "American Airlines",
-    "Destination": "CHICAGO - O'HARE (ORD)",
-    "ScheduledTime": "2021-09-04T08:03:00Z",
-    "ScheduledDateTime": "8:03 AM",
-    "Terminal": "4",
-    "Gate": "A14",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "1",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "7:53 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2586636",
-    "TimeSortKey": 160
-  },
-  {
-    "ID": 1079898,
-    "Flightnumber": "3192",
-    "Airline": "American Airlines",
-    "Destination": "MONTEREY (MRY)",
-    "ScheduledTime": "2021-09-04T08:05:00Z",
-    "ScheduledDateTime": "8:05 AM",
-    "Terminal": "4",
-    "Gate": "B20",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "8:05 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2584741",
-    "TimeSortKey": 161
-  },
-  {
     "ID": 1079548,
     "Flightnumber": "925",
     "Airline": "Alaska Airlines",
@@ -3696,7 +3652,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
     "Topic": "2584385",
-    "TimeSortKey": 162
+    "TimeSortKey": 160
   },
   {
     "ID": 1079908,
@@ -3718,7 +3674,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584742",
-    "TimeSortKey": 163
+    "TimeSortKey": 161
   },
   {
     "ID": 1079908,
@@ -3740,7 +3696,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584742",
-    "TimeSortKey": 164
+    "TimeSortKey": 162
   },
   {
     "ID": 1079909,
@@ -3762,7 +3718,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584743",
-    "TimeSortKey": 165
+    "TimeSortKey": 163
   },
   {
     "ID": 1079908,
@@ -3784,7 +3740,29 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584742",
-    "TimeSortKey": 166
+    "TimeSortKey": 164
+  },
+  {
+    "ID": 1079898,
+    "Flightnumber": "3192",
+    "Airline": "American Airlines",
+    "Destination": "MONTEREY (MRY)",
+    "ScheduledTime": "2021-09-04T08:05:00Z",
+    "ScheduledDateTime": "8:05 AM",
+    "Terminal": "4",
+    "Gate": "B20",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "8:05 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2584741",
+    "TimeSortKey": 165
   },
   {
     "ID": 1079908,
@@ -3806,7 +3784,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584742",
-    "TimeSortKey": 167
+    "TimeSortKey": 166
   },
   {
     "ID": 1079878,
@@ -3828,7 +3806,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584740",
-    "TimeSortKey": 168
+    "TimeSortKey": 167
   },
   {
     "ID": 1079873,
@@ -3850,7 +3828,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584744",
-    "TimeSortKey": 169
+    "TimeSortKey": 168
   },
   {
     "ID": 1079910,
@@ -3872,7 +3850,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584745",
-    "TimeSortKey": 170
+    "TimeSortKey": 169
   },
   {
     "ID": 1079893,
@@ -3894,7 +3872,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584746",
-    "TimeSortKey": 171
+    "TimeSortKey": 170
   },
   {
     "ID": 1080363,
@@ -3916,7 +3894,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585206",
-    "TimeSortKey": 172
+    "TimeSortKey": 171
   },
   {
     "ID": 1079874,
@@ -3938,7 +3916,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584747",
-    "TimeSortKey": 173
+    "TimeSortKey": 172
   },
   {
     "ID": 1079874,
@@ -3960,7 +3938,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584747",
-    "TimeSortKey": 174
+    "TimeSortKey": 173
   },
   {
     "ID": 1080353,
@@ -3982,7 +3960,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585205",
-    "TimeSortKey": 175
+    "TimeSortKey": 174
   },
   {
     "ID": 1079874,
@@ -4004,7 +3982,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584747",
-    "TimeSortKey": 176
+    "TimeSortKey": 175
   },
   {
     "ID": 1079899,
@@ -4026,7 +4004,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584748",
-    "TimeSortKey": 177
+    "TimeSortKey": 176
   },
   {
     "ID": 1079886,
@@ -4048,7 +4026,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584749",
-    "TimeSortKey": 178
+    "TimeSortKey": 177
   },
   {
     "ID": 1079887,
@@ -4070,7 +4048,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584750",
-    "TimeSortKey": 179
+    "TimeSortKey": 178
   },
   {
     "ID": 1079912,
@@ -4092,7 +4070,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584756",
-    "TimeSortKey": 180
+    "TimeSortKey": 179
   },
   {
     "ID": 1080349,
@@ -4105,7 +4083,7 @@
     "Gate": "A24",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "5",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -4114,7 +4092,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585207",
-    "TimeSortKey": 181
+    "TimeSortKey": 180
   },
   {
     "ID": 1079911,
@@ -4136,7 +4114,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584754",
-    "TimeSortKey": 182
+    "TimeSortKey": 181
   },
   {
     "ID": 1079912,
@@ -4158,7 +4136,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584756",
-    "TimeSortKey": 183
+    "TimeSortKey": 182
   },
   {
     "ID": 1079895,
@@ -4180,7 +4158,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584753",
-    "TimeSortKey": 184
+    "TimeSortKey": 183
   },
   {
     "ID": 1079880,
@@ -4202,7 +4180,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584755",
-    "TimeSortKey": 185
+    "TimeSortKey": 184
   },
   {
     "ID": 1080357,
@@ -4226,7 +4204,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585208",
-    "TimeSortKey": 186
+    "TimeSortKey": 185
   },
   {
     "ID": 1079879,
@@ -4248,7 +4226,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584752",
-    "TimeSortKey": 187
+    "TimeSortKey": 186
   },
   {
     "ID": 1079894,
@@ -4270,7 +4248,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584751",
-    "TimeSortKey": 188
+    "TimeSortKey": 187
   },
   {
     "ID": 1079888,
@@ -4294,7 +4272,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584757",
-    "TimeSortKey": 189
+    "TimeSortKey": 188
   },
   {
     "ID": 1079881,
@@ -4318,7 +4296,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584758",
-    "TimeSortKey": 190
+    "TimeSortKey": 189
   },
   {
     "ID": 1080358,
@@ -4342,7 +4320,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585209",
-    "TimeSortKey": 191
+    "TimeSortKey": 190
   },
   {
     "ID": 1079915,
@@ -4364,7 +4342,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584759",
-    "TimeSortKey": 192
+    "TimeSortKey": 191
   },
   {
     "ID": 1079889,
@@ -4388,7 +4366,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584760",
-    "TimeSortKey": 193
+    "TimeSortKey": 192
   },
   {
     "ID": 1079872,
@@ -4413,7 +4391,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584761",
-    "TimeSortKey": 194
+    "TimeSortKey": 193
   },
   {
     "ID": 1079890,
@@ -4435,7 +4413,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584762",
-    "TimeSortKey": 195
+    "TimeSortKey": 194
   },
   {
     "ID": 1079914,
@@ -4457,7 +4435,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584765",
-    "TimeSortKey": 196
+    "TimeSortKey": 195
   },
   {
     "ID": 1079914,
@@ -4479,7 +4457,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584765",
-    "TimeSortKey": 197
+    "TimeSortKey": 196
   },
   {
     "ID": 1080350,
@@ -4501,7 +4479,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/4B_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/4B_sml.png",
     "Topic": "2585210",
-    "TimeSortKey": 198
+    "TimeSortKey": 197
   },
   {
     "ID": 1079882,
@@ -4523,7 +4501,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584763",
-    "TimeSortKey": 199
+    "TimeSortKey": 198
   },
   {
     "ID": 1079914,
@@ -4545,7 +4523,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584765",
-    "TimeSortKey": 200
+    "TimeSortKey": 199
   },
   {
     "ID": 1079904,
@@ -4567,7 +4545,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584764",
-    "TimeSortKey": 201
+    "TimeSortKey": 200
   },
   {
     "ID": 1079919,
@@ -4589,7 +4567,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584766",
-    "TimeSortKey": 202
+    "TimeSortKey": 201
   },
   {
     "ID": 1079917,
@@ -4611,7 +4589,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584767",
-    "TimeSortKey": 203
+    "TimeSortKey": 202
   },
   {
     "ID": 1079942,
@@ -4633,7 +4611,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584768",
-    "TimeSortKey": 204
+    "TimeSortKey": 203
   },
   {
     "ID": 1080359,
@@ -4657,7 +4635,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585211",
-    "TimeSortKey": 205
+    "TimeSortKey": 204
   },
   {
     "ID": 1080360,
@@ -4679,7 +4657,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585212",
-    "TimeSortKey": 206
+    "TimeSortKey": 205
   },
   {
     "ID": 1079929,
@@ -4704,7 +4682,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584769",
-    "TimeSortKey": 207
+    "TimeSortKey": 206
   },
   {
     "ID": 1080361,
@@ -4726,7 +4704,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585213",
-    "TimeSortKey": 208
+    "TimeSortKey": 207
   },
   {
     "ID": 1080364,
@@ -4750,7 +4728,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585214",
-    "TimeSortKey": 209
+    "TimeSortKey": 208
   },
   {
     "ID": 1080365,
@@ -4772,7 +4750,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585215",
-    "TimeSortKey": 210
+    "TimeSortKey": 209
   },
   {
     "ID": 1080369,
@@ -4796,7 +4774,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585216",
-    "TimeSortKey": 211
+    "TimeSortKey": 210
   },
   {
     "ID": 1080385,
@@ -4818,7 +4796,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585217",
-    "TimeSortKey": 212
+    "TimeSortKey": 211
   },
   {
     "ID": 1080366,
@@ -4840,7 +4818,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585218",
-    "TimeSortKey": 213
+    "TimeSortKey": 212
   },
   {
     "ID": 1080378,
@@ -4864,7 +4842,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585219",
-    "TimeSortKey": 214
+    "TimeSortKey": 213
   },
   {
     "ID": 1079688,
@@ -4889,7 +4867,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2584552",
-    "TimeSortKey": 215
+    "TimeSortKey": 214
   },
   {
     "ID": 1079938,
@@ -4911,7 +4889,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584770",
-    "TimeSortKey": 216
+    "TimeSortKey": 215
   },
   {
     "ID": 1080379,
@@ -4935,7 +4913,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585220",
-    "TimeSortKey": 217
+    "TimeSortKey": 216
   },
   {
     "ID": 1080372,
@@ -4959,7 +4937,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585222",
-    "TimeSortKey": 218
+    "TimeSortKey": 217
   },
   {
     "ID": 1080367,
@@ -4981,7 +4959,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585221",
-    "TimeSortKey": 219
+    "TimeSortKey": 218
   },
   {
     "ID": 1080380,
@@ -5005,7 +4983,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585223",
-    "TimeSortKey": 220
+    "TimeSortKey": 219
   },
   {
     "ID": 1080377,
@@ -5029,7 +5007,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585224",
-    "TimeSortKey": 221
+    "TimeSortKey": 220
   },
   {
     "ID": 1080381,
@@ -5051,7 +5029,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585225",
-    "TimeSortKey": 222
+    "TimeSortKey": 221
   },
   {
     "ID": 1080370,
@@ -5073,7 +5051,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585226",
-    "TimeSortKey": 223
+    "TimeSortKey": 222
   },
   {
     "ID": 1079924,
@@ -5095,7 +5073,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584772",
-    "TimeSortKey": 224
+    "TimeSortKey": 223
   },
   {
     "ID": 1080373,
@@ -5106,7 +5084,7 @@
     "ScheduledDateTime": "8:40 AM",
     "Terminal": "4",
     "Gate": "B3",
-    "Status": "On Time",
+    "Status": "Now 8:23 AM",
     "StatusCode": "ON",
     "BagClaim": "",
     "CodeShares": [
@@ -5114,12 +5092,12 @@
     ],
     "AD": "A",
     "Actual": "",
-    "Estimated": "8:40 AM",
+    "Estimated": "8:23 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585227",
-    "TimeSortKey": 225
+    "TimeSortKey": 224
   },
   {
     "ID": 1079930,
@@ -5141,7 +5119,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584771",
-    "TimeSortKey": 226
+    "TimeSortKey": 225
   },
   {
     "ID": 1080368,
@@ -5163,7 +5141,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585228",
-    "TimeSortKey": 227
+    "TimeSortKey": 226
   },
   {
     "ID": 1080382,
@@ -5185,7 +5163,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585229",
-    "TimeSortKey": 228
+    "TimeSortKey": 227
   },
   {
     "ID": 1080371,
@@ -5207,7 +5185,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585231",
-    "TimeSortKey": 229
+    "TimeSortKey": 228
   },
   {
     "ID": 1080374,
@@ -5229,7 +5207,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585230",
-    "TimeSortKey": 230
+    "TimeSortKey": 229
   },
   {
     "ID": 1080383,
@@ -5251,7 +5229,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/LF_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/LF_sml.png",
     "Topic": "2585232",
-    "TimeSortKey": 231
+    "TimeSortKey": 230
   },
   {
     "ID": 1079939,
@@ -5273,7 +5251,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584773",
-    "TimeSortKey": 232
+    "TimeSortKey": 231
   },
   {
     "ID": 1079916,
@@ -5295,7 +5273,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584774",
-    "TimeSortKey": 233
+    "TimeSortKey": 232
   },
   {
     "ID": 1080375,
@@ -5312,12 +5290,12 @@
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
-    "Estimated": "8:46 AM",
+    "Estimated": "8:44 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585233",
-    "TimeSortKey": 234
+    "TimeSortKey": 233
   },
   {
     "ID": 1080384,
@@ -5341,7 +5319,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2585234",
-    "TimeSortKey": 235
+    "TimeSortKey": 234
   },
   {
     "ID": 1080376,
@@ -5365,7 +5343,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585235",
-    "TimeSortKey": 236
+    "TimeSortKey": 235
   },
   {
     "ID": 1080395,
@@ -5389,7 +5367,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585236",
-    "TimeSortKey": 237
+    "TimeSortKey": 236
   },
   {
     "ID": 1079816,
@@ -5413,7 +5391,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2584666",
-    "TimeSortKey": 238
+    "TimeSortKey": 237
   },
   {
     "ID": 1080401,
@@ -5435,7 +5413,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585238",
-    "TimeSortKey": 239
+    "TimeSortKey": 238
   },
   {
     "ID": 1080405,
@@ -5459,7 +5437,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585237",
-    "TimeSortKey": 240
+    "TimeSortKey": 239
   },
   {
     "ID": 1080392,
@@ -5481,7 +5459,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585242",
-    "TimeSortKey": 241
+    "TimeSortKey": 240
   },
   {
     "ID": 1080386,
@@ -5503,7 +5481,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585244",
-    "TimeSortKey": 242
+    "TimeSortKey": 241
   },
   {
     "ID": 1080402,
@@ -5527,7 +5505,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585241",
-    "TimeSortKey": 243
+    "TimeSortKey": 242
   },
   {
     "ID": 1080391,
@@ -5551,7 +5529,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585240",
-    "TimeSortKey": 244
+    "TimeSortKey": 243
   },
   {
     "ID": 1080400,
@@ -5573,7 +5551,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585239",
-    "TimeSortKey": 245
+    "TimeSortKey": 244
   },
   {
     "ID": 1080390,
@@ -5595,7 +5573,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585243",
-    "TimeSortKey": 246
+    "TimeSortKey": 245
   },
   {
     "ID": 1079961,
@@ -5617,7 +5595,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
     "Topic": "2584818",
-    "TimeSortKey": 247
+    "TimeSortKey": 246
   },
   {
     "ID": 1079962,
@@ -5639,7 +5617,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
     "Topic": "2584821",
-    "TimeSortKey": 248
+    "TimeSortKey": 247
   },
   {
     "ID": 1080393,
@@ -5661,7 +5639,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585247",
-    "TimeSortKey": 249
+    "TimeSortKey": 248
   },
   {
     "ID": 1080387,
@@ -5683,7 +5661,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2585245",
-    "TimeSortKey": 250
+    "TimeSortKey": 249
   },
   {
     "ID": 1080403,
@@ -5705,7 +5683,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585246",
-    "TimeSortKey": 251
+    "TimeSortKey": 250
   },
   {
     "ID": 1079920,
@@ -5727,7 +5705,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584775",
-    "TimeSortKey": 252
+    "TimeSortKey": 251
   },
   {
     "ID": 1080396,
@@ -5749,7 +5727,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585248",
-    "TimeSortKey": 253
+    "TimeSortKey": 252
   },
   {
     "ID": 1079661,
@@ -5776,7 +5754,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2584510",
-    "TimeSortKey": 254
+    "TimeSortKey": 253
   },
   {
     "ID": 1079931,
@@ -5798,7 +5776,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584776",
-    "TimeSortKey": 255
+    "TimeSortKey": 254
   },
   {
     "ID": 1079940,
@@ -5820,7 +5798,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584777",
-    "TimeSortKey": 256
+    "TimeSortKey": 255
   },
   {
     "ID": 1080397,
@@ -5842,7 +5820,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585249",
-    "TimeSortKey": 257
+    "TimeSortKey": 256
   },
   {
     "ID": 1079941,
@@ -5866,7 +5844,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584778",
-    "TimeSortKey": 258
+    "TimeSortKey": 257
   },
   {
     "ID": 1080394,
@@ -5890,7 +5868,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2585250",
-    "TimeSortKey": 259
+    "TimeSortKey": 258
   },
   {
     "ID": 1079936,
@@ -5912,7 +5890,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584780",
-    "TimeSortKey": 260
+    "TimeSortKey": 259
   },
   {
     "ID": 1079932,
@@ -5936,7 +5914,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584779",
-    "TimeSortKey": 261
+    "TimeSortKey": 260
   },
   {
     "ID": 1080388,
@@ -5958,7 +5936,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585251",
-    "TimeSortKey": 262
+    "TimeSortKey": 261
   },
   {
     "ID": 1079925,
@@ -5982,7 +5960,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584781",
-    "TimeSortKey": 263
+    "TimeSortKey": 262
   },
   {
     "ID": 1080398,
@@ -5993,18 +5971,18 @@
     "ScheduledDateTime": "9:15 AM",
     "Terminal": "4",
     "Gate": "C17",
-    "Status": "On Time",
+    "Status": "Now 8:41 AM",
     "StatusCode": "ON",
     "BagClaim": "",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
-    "Estimated": "9:15 AM",
+    "Estimated": "8:41 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585252",
-    "TimeSortKey": 264
+    "TimeSortKey": 263
   },
   {
     "ID": 1079921,
@@ -6026,7 +6004,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584783",
-    "TimeSortKey": 265
+    "TimeSortKey": 264
   },
   {
     "ID": 1080003,
@@ -6051,7 +6029,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2584847",
-    "TimeSortKey": 266
+    "TimeSortKey": 265
   },
   {
     "ID": 1079935,
@@ -6073,7 +6051,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584786",
-    "TimeSortKey": 267
+    "TimeSortKey": 266
   },
   {
     "ID": 1079933,
@@ -6095,7 +6073,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584784",
-    "TimeSortKey": 268
+    "TimeSortKey": 267
   },
   {
     "ID": 1079937,
@@ -6119,7 +6097,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584782",
-    "TimeSortKey": 269
+    "TimeSortKey": 268
   },
   {
     "ID": 1080389,
@@ -6141,7 +6119,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585253",
-    "TimeSortKey": 270
+    "TimeSortKey": 269
   },
   {
     "ID": 1079923,
@@ -6163,7 +6141,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584787",
-    "TimeSortKey": 271
+    "TimeSortKey": 270
   },
   {
     "ID": 1080388,
@@ -6185,7 +6163,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585251",
-    "TimeSortKey": 272
+    "TimeSortKey": 271
   },
   {
     "ID": 1079922,
@@ -6207,7 +6185,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584785",
-    "TimeSortKey": 273
+    "TimeSortKey": 272
   },
   {
     "ID": 1080404,
@@ -6231,7 +6209,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585254",
-    "TimeSortKey": 274
+    "TimeSortKey": 273
   },
   {
     "ID": 1079934,
@@ -6255,7 +6233,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584788",
-    "TimeSortKey": 275
+    "TimeSortKey": 274
   },
   {
     "ID": 1079926,
@@ -6277,7 +6255,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584789",
-    "TimeSortKey": 276
+    "TimeSortKey": 275
   },
   {
     "ID": 1079927,
@@ -6299,7 +6277,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584790",
-    "TimeSortKey": 277
+    "TimeSortKey": 276
   },
   {
     "ID": 1080426,
@@ -6321,7 +6299,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585257",
-    "TimeSortKey": 278
+    "TimeSortKey": 277
   },
   {
     "ID": 1080399,
@@ -6343,7 +6321,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585255",
-    "TimeSortKey": 279
+    "TimeSortKey": 278
   },
   {
     "ID": 1080418,
@@ -6365,7 +6343,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585256",
-    "TimeSortKey": 280
+    "TimeSortKey": 279
   },
   {
     "ID": 1079918,
@@ -6387,7 +6365,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584791",
-    "TimeSortKey": 281
+    "TimeSortKey": 280
   },
   {
     "ID": 1080414,
@@ -6412,7 +6390,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2585258",
-    "TimeSortKey": 282
+    "TimeSortKey": 281
   },
   {
     "ID": 1079928,
@@ -6434,7 +6412,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584792",
-    "TimeSortKey": 283
+    "TimeSortKey": 282
   },
   {
     "ID": 1079948,
@@ -6458,7 +6436,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584793",
-    "TimeSortKey": 284
+    "TimeSortKey": 283
   },
   {
     "ID": 1080428,
@@ -6480,7 +6458,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585262",
-    "TimeSortKey": 285
+    "TimeSortKey": 284
   },
   {
     "ID": 1080427,
@@ -6504,7 +6482,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585259",
-    "TimeSortKey": 286
+    "TimeSortKey": 285
   },
   {
     "ID": 1080407,
@@ -6526,7 +6504,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585261",
-    "TimeSortKey": 287
+    "TimeSortKey": 286
   },
   {
     "ID": 1080419,
@@ -6548,7 +6526,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585260",
-    "TimeSortKey": 288
+    "TimeSortKey": 287
   },
   {
     "ID": 1079964,
@@ -6572,7 +6550,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584795",
-    "TimeSortKey": 289
+    "TimeSortKey": 288
   },
   {
     "ID": 1080428,
@@ -6594,7 +6572,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585262",
-    "TimeSortKey": 290
+    "TimeSortKey": 289
   },
   {
     "ID": 1080419,
@@ -6616,7 +6594,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585260",
-    "TimeSortKey": 291
+    "TimeSortKey": 290
   },
   {
     "ID": 1080407,
@@ -6638,7 +6616,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585261",
-    "TimeSortKey": 292
+    "TimeSortKey": 291
   },
   {
     "ID": 1079978,
@@ -6660,7 +6638,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584794",
-    "TimeSortKey": 293
+    "TimeSortKey": 292
   },
   {
     "ID": 1079979,
@@ -6684,7 +6662,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584796",
-    "TimeSortKey": 294
+    "TimeSortKey": 293
   },
   {
     "ID": 1079690,
@@ -6706,7 +6684,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_sml.png",
     "Topic": "2584559",
-    "TimeSortKey": 295
+    "TimeSortKey": 294
   },
   {
     "ID": 1080421,
@@ -6728,7 +6706,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585264",
-    "TimeSortKey": 296
+    "TimeSortKey": 295
   },
   {
     "ID": 1079953,
@@ -6752,7 +6730,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584797",
-    "TimeSortKey": 297
+    "TimeSortKey": 296
   },
   {
     "ID": 1080408,
@@ -6774,7 +6752,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585263",
-    "TimeSortKey": 298
+    "TimeSortKey": 297
   },
   {
     "ID": 1079958,
@@ -6800,7 +6778,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584798",
-    "TimeSortKey": 299
+    "TimeSortKey": 298
   },
   {
     "ID": 1079969,
@@ -6824,7 +6802,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584799",
-    "TimeSortKey": 300
+    "TimeSortKey": 299
   },
   {
     "ID": 1080415,
@@ -6846,7 +6824,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585265",
-    "TimeSortKey": 301
+    "TimeSortKey": 300
   },
   {
     "ID": 1079980,
@@ -6868,7 +6846,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584800",
-    "TimeSortKey": 302
+    "TimeSortKey": 301
   },
   {
     "ID": 1079970,
@@ -6892,7 +6870,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584801",
-    "TimeSortKey": 303
+    "TimeSortKey": 302
   },
   {
     "ID": 1079959,
@@ -6916,7 +6894,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584804",
-    "TimeSortKey": 304
+    "TimeSortKey": 303
   },
   {
     "ID": 1079981,
@@ -6943,7 +6921,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584803",
-    "TimeSortKey": 305
+    "TimeSortKey": 304
   },
   {
     "ID": 1079949,
@@ -6967,7 +6945,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584802",
-    "TimeSortKey": 306
+    "TimeSortKey": 305
   },
   {
     "ID": 1079965,
@@ -6989,7 +6967,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584806",
-    "TimeSortKey": 307
+    "TimeSortKey": 306
   },
   {
     "ID": 1080416,
@@ -7013,7 +6991,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585266",
-    "TimeSortKey": 308
+    "TimeSortKey": 307
   },
   {
     "ID": 1079950,
@@ -7037,7 +7015,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584805",
-    "TimeSortKey": 309
+    "TimeSortKey": 308
   },
   {
     "ID": 1079977,
@@ -7063,7 +7041,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2584831",
-    "TimeSortKey": 310
+    "TimeSortKey": 309
   },
   {
     "ID": 1079952,
@@ -7085,7 +7063,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584811",
-    "TimeSortKey": 311
+    "TimeSortKey": 310
   },
   {
     "ID": 1079951,
@@ -7107,7 +7085,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584809",
-    "TimeSortKey": 312
+    "TimeSortKey": 311
   },
   {
     "ID": 1079951,
@@ -7129,7 +7107,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584809",
-    "TimeSortKey": 313
+    "TimeSortKey": 312
   },
   {
     "ID": 1079952,
@@ -7151,7 +7129,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584811",
-    "TimeSortKey": 314
+    "TimeSortKey": 313
   },
   {
     "ID": 1079817,
@@ -7175,7 +7153,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2584667",
-    "TimeSortKey": 315
+    "TimeSortKey": 314
   },
   {
     "ID": 1079960,
@@ -7199,7 +7177,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584807",
-    "TimeSortKey": 316
+    "TimeSortKey": 315
   },
   {
     "ID": 1079954,
@@ -7223,7 +7201,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584808",
-    "TimeSortKey": 317
+    "TimeSortKey": 316
   },
   {
     "ID": 1079943,
@@ -7245,7 +7223,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584810",
-    "TimeSortKey": 318
+    "TimeSortKey": 317
   },
   {
     "ID": 1079945,
@@ -7269,7 +7247,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584812",
-    "TimeSortKey": 319
+    "TimeSortKey": 318
   },
   {
     "ID": 1079944,
@@ -7293,7 +7271,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584814",
-    "TimeSortKey": 320
+    "TimeSortKey": 319
   },
   {
     "ID": 1080410,
@@ -7315,7 +7293,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_sml.png",
     "Topic": "2585267",
-    "TimeSortKey": 321
+    "TimeSortKey": 320
   },
   {
     "ID": 1079982,
@@ -7339,7 +7317,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584817",
-    "TimeSortKey": 322
+    "TimeSortKey": 321
   },
   {
     "ID": 1079732,
@@ -7361,7 +7339,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_sml.png",
     "Topic": "2584569",
-    "TimeSortKey": 323
+    "TimeSortKey": 322
   },
   {
     "ID": 1079967,
@@ -7385,7 +7363,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584815",
-    "TimeSortKey": 324
+    "TimeSortKey": 323
   },
   {
     "ID": 1079946,
@@ -7409,7 +7387,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
     "Topic": "2584819",
-    "TimeSortKey": 325
+    "TimeSortKey": 324
   },
   {
     "ID": 1079968,
@@ -7433,7 +7411,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584816",
-    "TimeSortKey": 326
+    "TimeSortKey": 325
   },
   {
     "ID": 1079966,
@@ -7455,7 +7433,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584813",
-    "TimeSortKey": 327
+    "TimeSortKey": 326
   },
   {
     "ID": 1079974,
@@ -7479,7 +7457,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2584820",
-    "TimeSortKey": 328
+    "TimeSortKey": 327
   },
   {
     "ID": 1080411,
@@ -7503,7 +7481,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585268",
-    "TimeSortKey": 329
+    "TimeSortKey": 328
   },
   {
     "ID": 1080412,
@@ -7514,20 +7492,20 @@
     "ScheduledDateTime": "9:50 AM",
     "Terminal": "4",
     "Gate": "A20",
-    "Status": "On Time",
-    "StatusCode": "ON",
+    "Status": "Now 10:25 AM",
+    "StatusCode": "DL",
     "BagClaim": "",
     "CodeShares": [
       "GOL TRANSPORTES #6107"
     ],
     "AD": "A",
     "Actual": "",
-    "Estimated": "9:50 AM",
+    "Estimated": "10:25 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585269",
-    "TimeSortKey": 330
+    "TimeSortKey": 329
   },
   {
     "ID": 1080420,
@@ -7549,7 +7527,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585270",
-    "TimeSortKey": 331
+    "TimeSortKey": 330
   },
   {
     "ID": 1079971,
@@ -7571,7 +7549,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
     "Topic": "2584822",
-    "TimeSortKey": 332
+    "TimeSortKey": 331
   },
   {
     "ID": 1079955,
@@ -7593,7 +7571,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584823",
-    "TimeSortKey": 333
+    "TimeSortKey": 332
   },
   {
     "ID": 1079947,
@@ -7615,7 +7593,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584824",
-    "TimeSortKey": 334
+    "TimeSortKey": 333
   },
   {
     "ID": 1079975,
@@ -7637,7 +7615,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2584825",
-    "TimeSortKey": 335
+    "TimeSortKey": 334
   },
   {
     "ID": 1080422,
@@ -7659,7 +7637,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585271",
-    "TimeSortKey": 336
+    "TimeSortKey": 335
   },
   {
     "ID": 1080423,
@@ -7683,7 +7661,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585272",
-    "TimeSortKey": 337
+    "TimeSortKey": 336
   },
   {
     "ID": 1080417,
@@ -7707,7 +7685,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2585273",
-    "TimeSortKey": 338
+    "TimeSortKey": 337
   },
   {
     "ID": 1080413,
@@ -7718,18 +7696,18 @@
     "ScheduledDateTime": "9:59 AM",
     "Terminal": "4",
     "Gate": "A27",
-    "Status": "On Time",
+    "Status": "Now 9:40 AM",
     "StatusCode": "ON",
     "BagClaim": "",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
-    "Estimated": "9:59 AM",
+    "Estimated": "9:40 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585274",
-    "TimeSortKey": 339
+    "TimeSortKey": 338
   },
   {
     "ID": 1080425,
@@ -7751,7 +7729,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2585277",
-    "TimeSortKey": 340
+    "TimeSortKey": 339
   },
   {
     "ID": 1080409,
@@ -7773,7 +7751,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2585275",
-    "TimeSortKey": 341
+    "TimeSortKey": 340
   },
   {
     "ID": 1079956,
@@ -7795,6 +7773,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2584827",
+    "TimeSortKey": 341
+  },
+  {
+    "ID": 1081791,
+    "Flightnumber": "769",
+    "Airline": "American Airlines",
+    "Destination": "CHICAGO - O'HARE (ORD)",
+    "ScheduledTime": "2021-09-04T10:00:00Z",
+    "ScheduledDateTime": "10:00 AM",
+    "Terminal": "4",
+    "Gate": "A14",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "1",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "10:00 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2586641",
     "TimeSortKey": 342
   },
   {

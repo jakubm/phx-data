@@ -1356,7 +1356,7 @@
     "Gate": "A25",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "5",
     "CodeShares": [
       "ALASKA AIRLINES #4313"
     ],
@@ -1449,13 +1449,13 @@
     "ScheduledDateTime": "7:02 AM",
     "Terminal": "4",
     "Gate": "A20",
-    "Status": "On Time",
+    "Status": "Now 6:51 AM",
     "StatusCode": "ON",
     "BagClaim": "5",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
-    "Estimated": "6:52 AM",
+    "Estimated": "6:51 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
@@ -1563,7 +1563,7 @@
     "Gate": "A24",
     "Status": "Now 6:53 AM",
     "StatusCode": "ON",
-    "BagClaim": "5",
+    "BagClaim": "7",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -1945,7 +1945,7 @@
     "Gate": "A12",
     "Status": "Now 7:02 AM",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "1",
     "CodeShares": [
       "ALASKA AIRLINES #6192"
     ],
@@ -5089,7 +5089,7 @@
     ],
     "AD": "A",
     "Actual": "",
-    "Estimated": "9:10 AM",
+    "Estimated": "9:02 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
@@ -6114,7 +6114,7 @@
     ],
     "AD": "A",
     "Actual": "",
-    "Estimated": "9:30 AM",
+    "Estimated": "9:25 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
@@ -29083,5 +29083,30 @@
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2612808",
     "TimeSortKey": 1277
+  },
+  {
+    "ID": 1107280,
+    "Flightnumber": "746",
+    "Airline": "Delta Air Lines",
+    "Destination": "DETROIT (DTW)",
+    "ScheduledTime": "2021-09-30T23:40:00Z",
+    "ScheduledDateTime": "11:40 PM",
+    "Terminal": "3",
+    "Gate": "F10",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "AEROMEXICO #4107",
+      "WESTJET AIRLINES #7217"
+    ],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "11:40 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
+    "Topic": "2612321",
+    "TimeSortKey": 1278
   }
 ]

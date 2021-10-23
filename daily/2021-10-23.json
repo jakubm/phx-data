@@ -27381,5 +27381,59 @@
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2636435",
     "TimeSortKey": 1201
+  },
+  {
+    "ID": 1132273,
+    "Flightnumber": "135",
+    "Airline": "JetBlue Airways",
+    "Destination": "NEW YORK-KENNEDY (JFK)",
+    "ScheduledTime": "2021-10-23T22:41:00Z",
+    "ScheduledDateTime": "10:41 PM",
+    "Terminal": "3",
+    "Gate": "F5",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "AMERICAN AIRLINES #9105",
+      "ROYAL AIR MAROC #9580",
+      "EMIRATES #6161",
+      "ETIHAD AIRWAYS #8317",
+      "QATAR AIRWAYS #3943",
+      "TURKISH AIRLINES #8969"
+    ],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "10:41 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_sml.png",
+    "Topic": "2636915",
+    "TimeSortKey": 1202
+  },
+  {
+    "ID": 1132292,
+    "Flightnumber": "2252",
+    "Airline": "Delta Air Lines",
+    "Destination": "MINN/ST.PAUL (MSP)",
+    "ScheduledTime": "2021-10-23T22:41:00Z",
+    "ScheduledDateTime": "10:41 PM",
+    "Terminal": "3",
+    "Gate": "F10",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "AEROMEXICO #3740",
+      "WESTJET AIRLINES #6972"
+    ],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "10:41 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
+    "Topic": "2636914",
+    "TimeSortKey": 1203
   }
 ]

@@ -1739,8 +1739,8 @@
     "ScheduledDateTime": "7:10 AM",
     "Terminal": "4",
     "Gate": "C13",
-    "Status": "On Time",
-    "StatusCode": "ON",
+    "Status": "See Agent",
+    "StatusCode": "SA",
     "BagClaim": "4",
     "CodeShares": [],
     "AD": "A",
@@ -4680,7 +4680,7 @@
     "Gate": "A12",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "1",
     "CodeShares": [
       "ALASKA AIRLINES #6286"
     ],
@@ -4704,7 +4704,7 @@
     "Gate": "B9",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "5",
     "CodeShares": [
       "ALASKA AIRLINES #6198"
     ],
@@ -4728,7 +4728,7 @@
     "Gate": "",
     "Status": "Now 8:45 AM",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "7",
     "CodeShares": [
       "ALASKA AIRLINES #6026"
     ],
@@ -4908,7 +4908,7 @@
     "Gate": "A19",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "5",
     "CodeShares": [
       "ALASKA AIRLINES #4264"
     ],
@@ -5024,7 +5024,7 @@
     "Gate": "A24",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "1",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -5070,7 +5070,7 @@
     "Gate": "A6",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "5",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -5092,7 +5092,7 @@
     "Gate": "B14",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "1",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -5114,7 +5114,7 @@
     "Gate": "",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "3",
     "CodeShares": [
       "ALASKA AIRLINES #6463"
     ],
@@ -5160,7 +5160,7 @@
     "Gate": "B7",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "7",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -5204,7 +5204,7 @@
     "Gate": "A9",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "7",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -5226,7 +5226,7 @@
     "Gate": "A1",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "3",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -5248,7 +5248,7 @@
     "Gate": "B6",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "1",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -5270,7 +5270,7 @@
     "Gate": "",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "3",
     "CodeShares": [
       "ALASKA AIRLINES #6829"
     ],
@@ -5294,7 +5294,7 @@
     "Gate": "A27",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "3",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -5316,7 +5316,7 @@
     "Gate": "",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "3",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -5360,7 +5360,7 @@
     "Gate": "",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "3",
     "CodeShares": [
       "ALASKA AIRLINES #4599"
     ],
@@ -5384,7 +5384,7 @@
     "Gate": "",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "7",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",

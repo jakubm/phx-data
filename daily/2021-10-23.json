@@ -919,8 +919,8 @@
     "ScheduledDateTime": "6:20 AM",
     "Terminal": "4",
     "Gate": "C11",
-    "Status": "On Time",
-    "StatusCode": "ON",
+    "Status": "See Agent",
+    "StatusCode": "SA",
     "BagClaim": "2",
     "CodeShares": [],
     "AD": "A",
@@ -1007,8 +1007,8 @@
     "ScheduledDateTime": "6:30 AM",
     "Terminal": "4",
     "Gate": "C18",
-    "Status": "On Time",
-    "StatusCode": "ON",
+    "Status": "See Agent",
+    "StatusCode": "SA",
     "BagClaim": "4",
     "CodeShares": [],
     "AD": "A",
@@ -1561,7 +1561,7 @@
     "Gate": "A8",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "5",
+    "BagClaim": "1",
     "CodeShares": [
       "ALASKA AIRLINES #6297"
     ],
@@ -2009,7 +2009,7 @@
     "Gate": "E4",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "5",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -2211,7 +2211,7 @@
     "Gate": "C12",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "4",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -2326,7 +2326,7 @@
     "Gate": "",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "7",
     "CodeShares": [
       "ALASKA AIRLINES #6408"
     ],
@@ -2372,7 +2372,7 @@
     "Gate": "A10",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "5",
     "CodeShares": [
       "ALASKA AIRLINES #6257"
     ],
@@ -2420,7 +2420,7 @@
     "Gate": "A20",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "5",
     "CodeShares": [
       "ALASKA AIRLINES #6333"
     ],
@@ -2466,7 +2466,7 @@
     "Gate": "A17",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "5",
     "CodeShares": [
       "ALASKA AIRLINES #6347"
     ],
@@ -2677,7 +2677,7 @@
     "Gate": "",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "3",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",

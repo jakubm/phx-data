@@ -1,29 +1,5 @@
 [
   {
-    "ID": 1132168,
-    "Flightnumber": "3262",
-    "Airline": "American Airlines",
-    "Destination": "GRAND JUNCTION (GJT)",
-    "ScheduledTime": "2021-10-23T18:17:00Z",
-    "ScheduledDateTime": "October 23, 6:17 PM",
-    "Terminal": "4",
-    "Gate": "B4",
-    "Status": "Arrived",
-    "StatusCode": "AR",
-    "BagClaim": "3",
-    "CodeShares": [
-      "ALASKA AIRLINES #6053"
-    ],
-    "AD": "A",
-    "Actual": "October 23, 10:42 PM",
-    "Estimated": "October 23, 10:51 PM",
-    "ChockTime": "October 23, 10:46 PM",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2636797",
-    "TimeSortKey": 0
-  },
-  {
     "ID": 1131730,
     "Flightnumber": "3035",
     "Airline": "American Airlines",
@@ -45,7 +21,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2636375",
-    "TimeSortKey": 1
+    "TimeSortKey": 0
   },
   {
     "ID": 1132263,
@@ -74,7 +50,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2636880",
-    "TimeSortKey": 2
+    "TimeSortKey": 1
   },
   {
     "ID": 1132309,
@@ -96,7 +72,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2636903",
-    "TimeSortKey": 3
+    "TimeSortKey": 2
   },
   {
     "ID": 1132295,
@@ -118,7 +94,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2636906",
-    "TimeSortKey": 4
+    "TimeSortKey": 3
   },
   {
     "ID": 1132311,
@@ -143,7 +119,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2636918",
-    "TimeSortKey": 5
+    "TimeSortKey": 4
   },
   {
     "ID": 1132290,
@@ -165,7 +141,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2636904",
-    "TimeSortKey": 6
+    "TimeSortKey": 5
   },
   {
     "ID": 1132304,
@@ -190,7 +166,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2636919",
-    "TimeSortKey": 7
+    "TimeSortKey": 6
   },
   {
     "ID": 1131795,
@@ -212,7 +188,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2636437",
-    "TimeSortKey": 8
+    "TimeSortKey": 7
   },
   {
     "ID": 1132293,
@@ -234,7 +210,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_sml.png",
     "Topic": "2636920",
-    "TimeSortKey": 9
+    "TimeSortKey": 8
   },
   {
     "ID": 1132278,
@@ -256,7 +232,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_sml.png",
     "Topic": "2636921",
-    "TimeSortKey": 10
+    "TimeSortKey": 9
   },
   {
     "ID": 1131808,
@@ -281,7 +257,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2636438",
-    "TimeSortKey": 11
+    "TimeSortKey": 10
   },
   {
     "ID": 1131773,
@@ -308,7 +284,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2636439",
-    "TimeSortKey": 12
+    "TimeSortKey": 11
   },
   {
     "ID": 1132274,
@@ -332,7 +308,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
     "Topic": "2636922",
-    "TimeSortKey": 13
+    "TimeSortKey": 12
   },
   {
     "ID": 1132297,
@@ -356,7 +332,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2636924",
-    "TimeSortKey": 14
+    "TimeSortKey": 13
   },
   {
     "ID": 1132288,
@@ -378,7 +354,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_sml.png",
     "Topic": "2636925",
-    "TimeSortKey": 15
+    "TimeSortKey": 14
   },
   {
     "ID": 1131823,
@@ -402,7 +378,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2636440",
-    "TimeSortKey": 16
+    "TimeSortKey": 15
   },
   {
     "ID": 1131849,
@@ -426,7 +402,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2636442",
-    "TimeSortKey": 17
+    "TimeSortKey": 16
   },
   {
     "ID": 1133401,
@@ -450,7 +426,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2638018",
-    "TimeSortKey": 18
+    "TimeSortKey": 17
   },
   {
     "ID": 1131841,
@@ -461,18 +437,18 @@
     "ScheduledDateTime": "October 23, 11:55 PM",
     "Terminal": "3",
     "Gate": "F5",
-    "Status": "Now 12:18 AM",
-    "StatusCode": "DL",
+    "Status": "Departed",
+    "StatusCode": "DP",
     "BagClaim": "",
     "CodeShares": [],
     "AD": "D",
-    "Actual": "",
+    "Actual": "12:48 AM",
     "Estimated": "12:18 AM",
-    "ChockTime": "",
+    "ChockTime": "12:31 AM",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_sml.png",
     "Topic": "2636444",
-    "TimeSortKey": 19
+    "TimeSortKey": 18
   },
   {
     "ID": 1131830,
@@ -499,7 +475,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_sml.png",
     "Topic": "2636443",
-    "TimeSortKey": 20
+    "TimeSortKey": 19
   },
   {
     "ID": 1131842,
@@ -521,7 +497,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_sml.png",
     "Topic": "2636445",
-    "TimeSortKey": 21
+    "TimeSortKey": 20
   },
   {
     "ID": 1131850,
@@ -545,7 +521,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2636446",
-    "TimeSortKey": 22
+    "TimeSortKey": 21
   },
   {
     "ID": 1133421,
@@ -556,18 +532,18 @@
     "ScheduledDateTime": "12:36 AM",
     "Terminal": "3",
     "Gate": "",
-    "Status": "Now 12:50 AM",
+    "Status": "Now 12:51 AM",
     "StatusCode": "ON",
     "BagClaim": "4",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
-    "Estimated": "12:50 AM",
+    "Estimated": "12:51 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2638038",
-    "TimeSortKey": 23
+    "TimeSortKey": 22
   },
   {
     "ID": 1132931,
@@ -578,17 +554,39 @@
     "ScheduledDateTime": "12:55 AM",
     "Terminal": "4",
     "Gate": "A11",
+    "Status": "Departed",
+    "StatusCode": "DP",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "12:55 AM",
+    "ChockTime": "12:48 AM",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637546",
+    "TimeSortKey": 23
+  },
+  {
+    "ID": 1134446,
+    "Flightnumber": "8838",
+    "Airline": "Delta Air Lines",
+    "Destination": "OKLAHOMA CITY (OKC)",
+    "ScheduledTime": "2021-10-24T01:35:00Z",
+    "ScheduledDateTime": "1:35 AM",
+    "Terminal": "3",
+    "Gate": "",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
     "CodeShares": [],
     "AD": "D",
     "Actual": "",
-    "Estimated": "12:55 AM",
+    "Estimated": "1:35 AM",
     "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637546",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
+    "Topic": "2639063",
     "TimeSortKey": 24
   },
   {
@@ -1030,28 +1028,6 @@
     "TimeSortKey": 43
   },
   {
-    "ID": 1132265,
-    "Flightnumber": "923",
-    "Airline": "Alaska Airlines",
-    "Destination": "SEATTLE (SEA)",
-    "ScheduledTime": "2021-10-24T06:00:00Z",
-    "ScheduledDateTime": "6:00 AM",
-    "Terminal": "3",
-    "Gate": "E2",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "6:00 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
-    "Topic": "2636857",
-    "TimeSortKey": 44
-  },
-  {
     "ID": 1132940,
     "Flightnumber": "4452",
     "Airline": "Southwest Airlines",
@@ -1071,6 +1047,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637552",
+    "TimeSortKey": 44
+  },
+  {
+    "ID": 1132265,
+    "Flightnumber": "923",
+    "Airline": "Alaska Airlines",
+    "Destination": "SEATTLE (SEA)",
+    "ScheduledTime": "2021-10-24T06:00:00Z",
+    "ScheduledDateTime": "6:00 AM",
+    "Terminal": "3",
+    "Gate": "E2",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "6:00 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
+    "Topic": "2636857",
     "TimeSortKey": 45
   },
   {
@@ -2375,28 +2373,6 @@
     "TimeSortKey": 102
   },
   {
-    "ID": 1132966,
-    "Flightnumber": "4460",
-    "Airline": "Southwest Airlines",
-    "Destination": "OAKLAND (OAK)",
-    "ScheduledTime": "2021-10-24T07:30:00Z",
-    "ScheduledDateTime": "7:30 AM",
-    "Terminal": "4",
-    "Gate": "C18",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "7:30 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637575",
-    "TimeSortKey": 103
-  },
-  {
     "ID": 1132971,
     "Flightnumber": "4471",
     "Airline": "Southwest Airlines",
@@ -2416,13 +2392,35 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637576",
+    "TimeSortKey": 103
+  },
+  {
+    "ID": 1132966,
+    "Flightnumber": "4460",
+    "Airline": "Southwest Airlines",
+    "Destination": "OAKLAND (OAK)",
+    "ScheduledTime": "2021-10-24T07:30:00Z",
+    "ScheduledDateTime": "7:30 AM",
+    "Terminal": "4",
+    "Gate": "C18",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "7:30 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637575",
     "TimeSortKey": 104
   },
   {
     "ID": 1132971,
     "Flightnumber": "4471",
     "Airline": "Southwest Airlines",
-    "Destination": "ORANGE COUNTY (SNA)",
+    "Destination": "SAN JOSE (SJC)",
     "ScheduledTime": "2021-10-24T07:30:00Z",
     "ScheduledDateTime": "7:30 AM",
     "Terminal": "4",
@@ -2444,7 +2442,7 @@
     "ID": 1132971,
     "Flightnumber": "4471",
     "Airline": "Southwest Airlines",
-    "Destination": "SAN JOSE (SJC)",
+    "Destination": "ORANGE COUNTY (SNA)",
     "ScheduledTime": "2021-10-24T07:30:00Z",
     "ScheduledDateTime": "7:30 AM",
     "Terminal": "4",
@@ -4494,6 +4492,28 @@
     "TimeSortKey": 195
   },
   {
+    "ID": 1133002,
+    "Flightnumber": "3370",
+    "Airline": "Southwest Airlines",
+    "Destination": "CHARLESTON, S.C. (CHS)",
+    "ScheduledTime": "2021-10-24T08:35:00Z",
+    "ScheduledDateTime": "8:35 AM",
+    "Terminal": "4",
+    "Gate": "C3",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "8:35 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637610",
+    "TimeSortKey": 196
+  },
+  {
     "ID": 1132406,
     "Flightnumber": "1872",
     "Airline": "American Airlines",
@@ -4515,28 +4535,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637022",
-    "TimeSortKey": 196
-  },
-  {
-    "ID": 1133002,
-    "Flightnumber": "3370",
-    "Airline": "Southwest Airlines",
-    "Destination": "CHARLESTON, S.C. (CHS)",
-    "ScheduledTime": "2021-10-24T08:35:00Z",
-    "ScheduledDateTime": "8:35 AM",
-    "Terminal": "4",
-    "Gate": "C3",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "8:35 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637610",
     "TimeSortKey": 197
   },
   {
@@ -5100,28 +5098,6 @@
     "TimeSortKey": 222
   },
   {
-    "ID": 1132428,
-    "Flightnumber": "956",
-    "Airline": "American Airlines",
-    "Destination": "BURBANK (BUR)",
-    "ScheduledTime": "2021-10-24T08:45:00Z",
-    "ScheduledDateTime": "8:45 AM",
-    "Terminal": "4",
-    "Gate": "A2",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "8:45 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637040",
-    "TimeSortKey": 223
-  },
-  {
     "ID": 1132432,
     "Flightnumber": "3898",
     "Airline": "Southwest Airlines",
@@ -5141,6 +5117,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637043",
+    "TimeSortKey": 223
+  },
+  {
+    "ID": 1132428,
+    "Flightnumber": "956",
+    "Airline": "American Airlines",
+    "Destination": "BURBANK (BUR)",
+    "ScheduledTime": "2021-10-24T08:45:00Z",
+    "ScheduledDateTime": "8:45 AM",
+    "Terminal": "4",
+    "Gate": "A2",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "8:45 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637040",
     "TimeSortKey": 224
   },
   {
@@ -5867,28 +5865,6 @@
     "TimeSortKey": 256
   },
   {
-    "ID": 1132449,
-    "Flightnumber": "3979",
-    "Airline": "Southwest Airlines",
-    "Destination": "OMAHA (OMA)",
-    "ScheduledTime": "2021-10-24T09:15:00Z",
-    "ScheduledDateTime": "9:15 AM",
-    "Terminal": "4",
-    "Gate": "C17",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "9:15 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637062",
-    "TimeSortKey": 257
-  },
-  {
     "ID": 1132977,
     "Flightnumber": "554",
     "Airline": "American Airlines",
@@ -5908,6 +5884,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637619",
+    "TimeSortKey": 257
+  },
+  {
+    "ID": 1132449,
+    "Flightnumber": "3979",
+    "Airline": "Southwest Airlines",
+    "Destination": "OMAHA (OMA)",
+    "ScheduledTime": "2021-10-24T09:15:00Z",
+    "ScheduledDateTime": "9:15 AM",
+    "Terminal": "4",
+    "Gate": "C17",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "9:15 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637062",
     "TimeSortKey": 258
   },
   {
@@ -6391,6 +6389,28 @@
     "TimeSortKey": 279
   },
   {
+    "ID": 1133032,
+    "Flightnumber": "4019",
+    "Airline": "Southwest Airlines",
+    "Destination": "BALTIMORE/WASHINGTON (BWI)",
+    "ScheduledTime": "2021-10-24T09:25:00Z",
+    "ScheduledDateTime": "9:25 AM",
+    "Terminal": "4",
+    "Gate": "C12",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "9:25 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637635",
+    "TimeSortKey": 280
+  },
+  {
     "ID": 1133010,
     "Flightnumber": "5957",
     "Airline": "American Airlines",
@@ -6410,35 +6430,13 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637632",
-    "TimeSortKey": 280
-  },
-  {
-    "ID": 1133032,
-    "Flightnumber": "4019",
-    "Airline": "Southwest Airlines",
-    "Destination": "CLEVELAND (CLE)",
-    "ScheduledTime": "2021-10-24T09:25:00Z",
-    "ScheduledDateTime": "9:25 AM",
-    "Terminal": "4",
-    "Gate": "C12",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "9:25 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637635",
     "TimeSortKey": 281
   },
   {
     "ID": 1133032,
     "Flightnumber": "4019",
     "Airline": "Southwest Airlines",
-    "Destination": "BALTIMORE/WASHINGTON (BWI)",
+    "Destination": "CLEVELAND (CLE)",
     "ScheduledTime": "2021-10-24T09:25:00Z",
     "ScheduledDateTime": "9:25 AM",
     "Terminal": "4",
@@ -6479,28 +6477,6 @@
     "TimeSortKey": 283
   },
   {
-    "ID": 1133032,
-    "Flightnumber": "4019",
-    "Airline": "Southwest Airlines",
-    "Destination": "DENVER (DEN)",
-    "ScheduledTime": "2021-10-24T09:25:00Z",
-    "ScheduledDateTime": "9:25 AM",
-    "Terminal": "4",
-    "Gate": "C12",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "9:25 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637635",
-    "TimeSortKey": 284
-  },
-  {
     "ID": 1133027,
     "Flightnumber": "5514",
     "Airline": "Southwest Airlines",
@@ -6520,6 +6496,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637634",
+    "TimeSortKey": 284
+  },
+  {
+    "ID": 1133032,
+    "Flightnumber": "4019",
+    "Airline": "Southwest Airlines",
+    "Destination": "DENVER (DEN)",
+    "ScheduledTime": "2021-10-24T09:25:00Z",
+    "ScheduledDateTime": "9:25 AM",
+    "Terminal": "4",
+    "Gate": "C12",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "9:25 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637635",
     "TimeSortKey": 285
   },
   {
@@ -6822,28 +6820,6 @@
     "TimeSortKey": 298
   },
   {
-    "ID": 1133029,
-    "Flightnumber": "3158",
-    "Airline": "American Airlines",
-    "Destination": "HERMOSILLO (HMO)",
-    "ScheduledTime": "2021-10-24T09:30:00Z",
-    "ScheduledDateTime": "9:30 AM",
-    "Terminal": "4",
-    "Gate": "B20",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "9:30 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637643",
-    "TimeSortKey": 299
-  },
-  {
     "ID": 1133040,
     "Flightnumber": "1441",
     "Airline": "American Airlines",
@@ -6865,7 +6841,51 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637639",
+    "TimeSortKey": 299
+  },
+  {
+    "ID": 1133029,
+    "Flightnumber": "3158",
+    "Airline": "American Airlines",
+    "Destination": "HERMOSILLO (HMO)",
+    "ScheduledTime": "2021-10-24T09:30:00Z",
+    "ScheduledDateTime": "9:30 AM",
+    "Terminal": "4",
+    "Gate": "B20",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "9:30 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637643",
     "TimeSortKey": 300
+  },
+  {
+    "ID": 1133037,
+    "Flightnumber": "3898",
+    "Airline": "Southwest Airlines",
+    "Destination": "EL PASO (ELP)",
+    "ScheduledTime": "2021-10-24T09:30:00Z",
+    "ScheduledDateTime": "9:30 AM",
+    "Terminal": "4",
+    "Gate": "C11",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "9:30 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637645",
+    "TimeSortKey": 301
   },
   {
     "ID": 1132452,
@@ -6889,28 +6909,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637070",
-    "TimeSortKey": 301
-  },
-  {
-    "ID": 1133037,
-    "Flightnumber": "3898",
-    "Airline": "Southwest Airlines",
-    "Destination": "EL PASO (ELP)",
-    "ScheduledTime": "2021-10-24T09:30:00Z",
-    "ScheduledDateTime": "9:30 AM",
-    "Terminal": "4",
-    "Gate": "C11",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "9:30 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637645",
     "TimeSortKey": 302
   },
   {
@@ -7010,6 +7008,28 @@
     "TimeSortKey": 306
   },
   {
+    "ID": 1133018,
+    "Flightnumber": "5441",
+    "Airline": "Southwest Airlines",
+    "Destination": "DENVER (DEN)",
+    "ScheduledTime": "2021-10-24T09:35:00Z",
+    "ScheduledDateTime": "9:35 AM",
+    "Terminal": "4",
+    "Gate": "C7",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "9:35 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637657",
+    "TimeSortKey": 307
+  },
+  {
     "ID": 1133009,
     "Flightnumber": "6215",
     "Airline": "Southwest Airlines",
@@ -7029,7 +7049,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637653",
-    "TimeSortKey": 307
+    "TimeSortKey": 308
   },
   {
     "ID": 1133005,
@@ -7051,7 +7071,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637656",
-    "TimeSortKey": 308
+    "TimeSortKey": 309
   },
   {
     "ID": 1133034,
@@ -7073,7 +7093,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637654",
-    "TimeSortKey": 309
+    "TimeSortKey": 310
   },
   {
     "ID": 1133005,
@@ -7095,7 +7115,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637656",
-    "TimeSortKey": 310
+    "TimeSortKey": 311
   },
   {
     "ID": 1133009,
@@ -7117,28 +7137,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637653",
-    "TimeSortKey": 311
-  },
-  {
-    "ID": 1133018,
-    "Flightnumber": "5441",
-    "Airline": "Southwest Airlines",
-    "Destination": "DENVER (DEN)",
-    "ScheduledTime": "2021-10-24T09:35:00Z",
-    "ScheduledDateTime": "9:35 AM",
-    "Terminal": "4",
-    "Gate": "C7",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "9:35 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637657",
     "TimeSortKey": 312
   },
   {
@@ -7419,30 +7417,6 @@
     "TimeSortKey": 324
   },
   {
-    "ID": 1133044,
-    "Flightnumber": "1463",
-    "Airline": "American Airlines",
-    "Destination": "MADISON (MSN)",
-    "ScheduledTime": "2021-10-24T09:40:00Z",
-    "ScheduledDateTime": "9:40 AM",
-    "Terminal": "4",
-    "Gate": "A25",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [
-      "ALASKA AIRLINES #6549"
-    ],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "9:40 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637660",
-    "TimeSortKey": 325
-  },
-  {
     "ID": 1133055,
     "Flightnumber": "4190",
     "Airline": "American Airlines",
@@ -7464,6 +7438,30 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637663",
+    "TimeSortKey": 325
+  },
+  {
+    "ID": 1133044,
+    "Flightnumber": "1463",
+    "Airline": "American Airlines",
+    "Destination": "MADISON (MSN)",
+    "ScheduledTime": "2021-10-24T09:40:00Z",
+    "ScheduledDateTime": "9:40 AM",
+    "Terminal": "4",
+    "Gate": "A25",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "ALASKA AIRLINES #6549"
+    ],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "9:40 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637660",
     "TimeSortKey": 326
   },
   {
@@ -8272,14 +8270,14 @@
     "ScheduledTime": "2021-10-24T10:02:00Z",
     "ScheduledDateTime": "10:02 AM",
     "Terminal": "4",
-    "Gate": "A25",
-    "Status": "On Time",
-    "StatusCode": "ON",
+    "Gate": "A10",
+    "Status": "Now 3:52 PM",
+    "StatusCode": "DL",
     "BagClaim": "",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
-    "Estimated": "10:02 AM",
+    "Estimated": "3:52 PM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
@@ -8706,28 +8704,6 @@
     "TimeSortKey": 380
   },
   {
-    "ID": 1132474,
-    "Flightnumber": "1042",
-    "Airline": "Southwest Airlines",
-    "Destination": "BOISE (BOI)",
-    "ScheduledTime": "2021-10-24T10:15:00Z",
-    "ScheduledDateTime": "10:15 AM",
-    "Terminal": "4",
-    "Gate": "C11",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "10:15 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637099",
-    "TimeSortKey": 381
-  },
-  {
     "ID": 1133063,
     "Flightnumber": "4393",
     "Airline": "Southwest Airlines",
@@ -8747,6 +8723,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637682",
+    "TimeSortKey": 381
+  },
+  {
+    "ID": 1132474,
+    "Flightnumber": "1042",
+    "Airline": "Southwest Airlines",
+    "Destination": "BOISE (BOI)",
+    "ScheduledTime": "2021-10-24T10:15:00Z",
+    "ScheduledDateTime": "10:15 AM",
+    "Terminal": "4",
+    "Gate": "C11",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "10:15 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637099",
     "TimeSortKey": 382
   },
   {
@@ -9075,28 +9073,6 @@
     "TimeSortKey": 396
   },
   {
-    "ID": 1132499,
-    "Flightnumber": "4457",
-    "Airline": "Southwest Airlines",
-    "Destination": "SALT LAKE CITY (SLC)",
-    "ScheduledTime": "2021-10-24T10:25:00Z",
-    "ScheduledDateTime": "10:25 AM",
-    "Terminal": "4",
-    "Gate": "D2",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "10:25 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637112",
-    "TimeSortKey": 397
-  },
-  {
     "ID": 1133058,
     "Flightnumber": "3663",
     "Airline": "Southwest Airlines",
@@ -9116,6 +9092,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637684",
+    "TimeSortKey": 397
+  },
+  {
+    "ID": 1132499,
+    "Flightnumber": "4457",
+    "Airline": "Southwest Airlines",
+    "Destination": "SALT LAKE CITY (SLC)",
+    "ScheduledTime": "2021-10-24T10:25:00Z",
+    "ScheduledDateTime": "10:25 AM",
+    "Terminal": "4",
+    "Gate": "D2",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "10:25 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637112",
     "TimeSortKey": 398
   },
   {
@@ -9447,7 +9445,7 @@
     "ScheduledTime": "2021-10-24T10:35:00Z",
     "ScheduledDateTime": "10:35 AM",
     "Terminal": "4",
-    "Gate": "C7",
+    "Gate": "C18",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -10291,6 +10289,28 @@
     "TimeSortKey": 449
   },
   {
+    "ID": 1132533,
+    "Flightnumber": "1342",
+    "Airline": "Southwest Airlines",
+    "Destination": "NEW YORK-LAGUARDIA (LGA)",
+    "ScheduledTime": "2021-10-24T11:05:00Z",
+    "ScheduledDateTime": "11:05 AM",
+    "Terminal": "4",
+    "Gate": "C8",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "11:05 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637131",
+    "TimeSortKey": 450
+  },
+  {
     "ID": 1133096,
     "Flightnumber": "2372",
     "Airline": "Delta Air Lines",
@@ -10310,30 +10330,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2637711",
-    "TimeSortKey": 450
-  },
-  {
-    "ID": 1133088,
-    "Flightnumber": "2085",
-    "Airline": "American Airlines",
-    "Destination": "SACRAMENTO (SMF)",
-    "ScheduledTime": "2021-10-24T11:05:00Z",
-    "ScheduledDateTime": "11:05 AM",
-    "Terminal": "4",
-    "Gate": "A25",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [
-      "ALASKA AIRLINES #4463"
-    ],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "11:05 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637707",
     "TimeSortKey": 451
   },
   {
@@ -10361,32 +10357,34 @@
     "TimeSortKey": 452
   },
   {
-    "ID": 1132533,
-    "Flightnumber": "1342",
-    "Airline": "Southwest Airlines",
-    "Destination": "DENVER (DEN)",
+    "ID": 1133088,
+    "Flightnumber": "2085",
+    "Airline": "American Airlines",
+    "Destination": "SACRAMENTO (SMF)",
     "ScheduledTime": "2021-10-24T11:05:00Z",
     "ScheduledDateTime": "11:05 AM",
     "Terminal": "4",
-    "Gate": "C8",
+    "Gate": "A25",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
+    "CodeShares": [
+      "ALASKA AIRLINES #4463"
+    ],
+    "AD": "D",
     "Actual": "",
     "Estimated": "11:05 AM",
     "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637131",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637707",
     "TimeSortKey": 453
   },
   {
     "ID": 1132533,
     "Flightnumber": "1342",
     "Airline": "Southwest Airlines",
-    "Destination": "NEW YORK-LAGUARDIA (LGA)",
+    "Destination": "DENVER (DEN)",
     "ScheduledTime": "2021-10-24T11:05:00Z",
     "ScheduledDateTime": "11:05 AM",
     "Terminal": "4",
@@ -10610,28 +10608,6 @@
     "ID": 1133089,
     "Flightnumber": "3603",
     "Airline": "Southwest Airlines",
-    "Destination": "ST. LOUIS (STL)",
-    "ScheduledTime": "2021-10-24T11:15:00Z",
-    "ScheduledDateTime": "11:15 AM",
-    "Terminal": "4",
-    "Gate": "C1",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "11:15 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637716",
-    "TimeSortKey": 464
-  },
-  {
-    "ID": 1133089,
-    "Flightnumber": "3603",
-    "Airline": "Southwest Airlines",
     "Destination": "ORANGE COUNTY (SNA)",
     "ScheduledTime": "2021-10-24T11:15:00Z",
     "ScheduledDateTime": "11:15 AM",
@@ -10648,7 +10624,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637716",
-    "TimeSortKey": 465
+    "TimeSortKey": 464
   },
   {
     "ID": 1132534,
@@ -10670,7 +10646,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637133",
-    "TimeSortKey": 466
+    "TimeSortKey": 465
   },
   {
     "ID": 1133104,
@@ -10692,7 +10668,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637718",
-    "TimeSortKey": 467
+    "TimeSortKey": 466
   },
   {
     "ID": 1133098,
@@ -10714,7 +10690,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637717",
-    "TimeSortKey": 468
+    "TimeSortKey": 467
   },
   {
     "ID": 1133104,
@@ -10736,31 +10712,29 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637718",
-    "TimeSortKey": 469
+    "TimeSortKey": 468
   },
   {
-    "ID": 1133127,
-    "Flightnumber": "1631",
-    "Airline": "American Airlines",
-    "Destination": "SAN FRANCISCO (SFO)",
-    "ScheduledTime": "2021-10-24T11:16:00Z",
-    "ScheduledDateTime": "11:16 AM",
+    "ID": 1133089,
+    "Flightnumber": "3603",
+    "Airline": "Southwest Airlines",
+    "Destination": "ST. LOUIS (STL)",
+    "ScheduledTime": "2021-10-24T11:15:00Z",
+    "ScheduledDateTime": "11:15 AM",
     "Terminal": "4",
-    "Gate": "B9",
+    "Gate": "C1",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
-    "CodeShares": [
-      "QATAR AIRWAYS #2362"
-    ],
+    "CodeShares": [],
     "AD": "D",
     "Actual": "",
-    "Estimated": "11:16 AM",
+    "Estimated": "11:15 AM",
     "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637720",
-    "TimeSortKey": 470
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637716",
+    "TimeSortKey": 469
   },
   {
     "ID": 1132538,
@@ -10785,6 +10759,30 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2637134",
+    "TimeSortKey": 470
+  },
+  {
+    "ID": 1133127,
+    "Flightnumber": "1631",
+    "Airline": "American Airlines",
+    "Destination": "SAN FRANCISCO (SFO)",
+    "ScheduledTime": "2021-10-24T11:16:00Z",
+    "ScheduledDateTime": "11:16 AM",
+    "Terminal": "4",
+    "Gate": "B9",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "QATAR AIRWAYS #2362"
+    ],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "11:16 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637720",
     "TimeSortKey": 471
   },
   {
@@ -13438,28 +13436,6 @@
     "TimeSortKey": 588
   },
   {
-    "ID": 1133134,
-    "Flightnumber": "3167",
-    "Airline": "American Airlines",
-    "Destination": "TULSA (TUL)",
-    "ScheduledTime": "2021-10-24T13:00:00Z",
-    "ScheduledDateTime": "1:00 PM",
-    "Terminal": "4",
-    "Gate": "B12",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "1:00 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637749",
-    "TimeSortKey": 589
-  },
-  {
     "ID": 1133157,
     "Flightnumber": "3207",
     "Airline": "American Airlines",
@@ -13481,6 +13457,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637750",
+    "TimeSortKey": 589
+  },
+  {
+    "ID": 1133134,
+    "Flightnumber": "3167",
+    "Airline": "American Airlines",
+    "Destination": "TULSA (TUL)",
+    "ScheduledTime": "2021-10-24T13:00:00Z",
+    "ScheduledDateTime": "1:00 PM",
+    "Terminal": "4",
+    "Gate": "B12",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "1:00 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637749",
     "TimeSortKey": 590
   },
   {
@@ -13598,6 +13596,28 @@
     "TimeSortKey": 595
   },
   {
+    "ID": 1133132,
+    "Flightnumber": "2816",
+    "Airline": "Southwest Airlines",
+    "Destination": "SALT LAKE CITY (SLC)",
+    "ScheduledTime": "2021-10-24T13:05:00Z",
+    "ScheduledDateTime": "1:05 PM",
+    "Terminal": "4",
+    "Gate": "C16",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "1:05 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637757",
+    "TimeSortKey": 596
+  },
+  {
     "ID": 1133130,
     "Flightnumber": "3133",
     "Airline": "American Airlines",
@@ -13617,7 +13637,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637755",
-    "TimeSortKey": 596
+    "TimeSortKey": 597
   },
   {
     "ID": 1133138,
@@ -13639,28 +13659,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637758",
-    "TimeSortKey": 597
-  },
-  {
-    "ID": 1133132,
-    "Flightnumber": "2816",
-    "Airline": "Southwest Airlines",
-    "Destination": "SALT LAKE CITY (SLC)",
-    "ScheduledTime": "2021-10-24T13:05:00Z",
-    "ScheduledDateTime": "1:05 PM",
-    "Terminal": "4",
-    "Gate": "C16",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "1:05 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637757",
     "TimeSortKey": 598
   },
   {
@@ -13752,6 +13750,28 @@
     "TimeSortKey": 602
   },
   {
+    "ID": 1133131,
+    "Flightnumber": "3566",
+    "Airline": "Southwest Airlines",
+    "Destination": "DENVER (DEN)",
+    "ScheduledTime": "2021-10-24T13:05:00Z",
+    "ScheduledDateTime": "1:05 PM",
+    "Terminal": "4",
+    "Gate": "C3",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "1:05 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637756",
+    "TimeSortKey": 603
+  },
+  {
     "ID": 1133132,
     "Flightnumber": "2816",
     "Airline": "Southwest Airlines",
@@ -13771,7 +13791,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637757",
-    "TimeSortKey": 603
+    "TimeSortKey": 604
   },
   {
     "ID": 1133132,
@@ -13793,7 +13813,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637757",
-    "TimeSortKey": 604
+    "TimeSortKey": 605
   },
   {
     "ID": 1133151,
@@ -13819,7 +13839,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637754",
-    "TimeSortKey": 605
+    "TimeSortKey": 606
   },
   {
     "ID": 1133138,
@@ -13841,7 +13861,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637758",
-    "TimeSortKey": 606
+    "TimeSortKey": 607
   },
   {
     "ID": 1133132,
@@ -13863,28 +13883,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637757",
-    "TimeSortKey": 607
-  },
-  {
-    "ID": 1133131,
-    "Flightnumber": "3566",
-    "Airline": "Southwest Airlines",
-    "Destination": "DENVER (DEN)",
-    "ScheduledTime": "2021-10-24T13:05:00Z",
-    "ScheduledDateTime": "1:05 PM",
-    "Terminal": "4",
-    "Gate": "C3",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "1:05 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637756",
     "TimeSortKey": 608
   },
   {
@@ -14379,30 +14377,6 @@
     "TimeSortKey": 629
   },
   {
-    "ID": 1133144,
-    "Flightnumber": "4291",
-    "Airline": "American Airlines",
-    "Destination": "SALT LAKE CITY (SLC)",
-    "ScheduledTime": "2021-10-24T13:30:00Z",
-    "ScheduledDateTime": "1:30 PM",
-    "Terminal": "4",
-    "Gate": "B10",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [
-      "ALASKA AIRLINES #4392"
-    ],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "1:30 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637771",
-    "TimeSortKey": 630
-  },
-  {
     "ID": 1132589,
     "Flightnumber": "4150",
     "Airline": "Southwest Airlines",
@@ -14422,7 +14396,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637206",
-    "TimeSortKey": 631
+    "TimeSortKey": 630
   },
   {
     "ID": 1133153,
@@ -14444,6 +14418,30 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2637772",
+    "TimeSortKey": 631
+  },
+  {
+    "ID": 1133144,
+    "Flightnumber": "4291",
+    "Airline": "American Airlines",
+    "Destination": "SALT LAKE CITY (SLC)",
+    "ScheduledTime": "2021-10-24T13:30:00Z",
+    "ScheduledDateTime": "1:30 PM",
+    "Terminal": "4",
+    "Gate": "B10",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "ALASKA AIRLINES #4392"
+    ],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "1:30 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637771",
     "TimeSortKey": 632
   },
   {
@@ -14491,28 +14489,6 @@
     "TimeSortKey": 634
   },
   {
-    "ID": 1132586,
-    "Flightnumber": "885",
-    "Airline": "Southwest Airlines",
-    "Destination": "OAKLAND (OAK)",
-    "ScheduledTime": "2021-10-24T13:30:00Z",
-    "ScheduledDateTime": "1:30 PM",
-    "Terminal": "4",
-    "Gate": "D5",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "1:30 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637205",
-    "TimeSortKey": 635
-  },
-  {
     "ID": 1132589,
     "Flightnumber": "4150",
     "Airline": "Southwest Airlines",
@@ -14532,6 +14508,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637206",
+    "TimeSortKey": 635
+  },
+  {
+    "ID": 1132586,
+    "Flightnumber": "885",
+    "Airline": "Southwest Airlines",
+    "Destination": "OAKLAND (OAK)",
+    "ScheduledTime": "2021-10-24T13:30:00Z",
+    "ScheduledDateTime": "1:30 PM",
+    "Terminal": "4",
+    "Gate": "D5",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "1:30 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637205",
     "TimeSortKey": 636
   },
   {
@@ -15207,28 +15205,6 @@
     "TimeSortKey": 665
   },
   {
-    "ID": 1132605,
-    "Flightnumber": "1621",
-    "Airline": "Southwest Airlines",
-    "Destination": "SEATTLE (SEA)",
-    "ScheduledTime": "2021-10-24T14:00:00Z",
-    "ScheduledDateTime": "2:00 PM",
-    "Terminal": "4",
-    "Gate": "C9",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "2:00 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637217",
-    "TimeSortKey": 666
-  },
-  {
     "ID": 1132599,
     "Flightnumber": "4638",
     "Airline": "Southwest Airlines",
@@ -15248,6 +15224,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637218",
+    "TimeSortKey": 666
+  },
+  {
+    "ID": 1132605,
+    "Flightnumber": "1621",
+    "Airline": "Southwest Airlines",
+    "Destination": "SEATTLE (SEA)",
+    "ScheduledTime": "2021-10-24T14:00:00Z",
+    "ScheduledDateTime": "2:00 PM",
+    "Terminal": "4",
+    "Gate": "C9",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "2:00 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637217",
     "TimeSortKey": 667
   },
   {
@@ -15345,28 +15343,6 @@
     "ID": 1133161,
     "Flightnumber": "885",
     "Airline": "Southwest Airlines",
-    "Destination": "CHARLESTON, S.C. (CHS)",
-    "ScheduledTime": "2021-10-24T14:10:00Z",
-    "ScheduledDateTime": "2:10 PM",
-    "Terminal": "4",
-    "Gate": "D5",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "2:10 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637784",
-    "TimeSortKey": 672
-  },
-  {
-    "ID": 1133161,
-    "Flightnumber": "885",
-    "Airline": "Southwest Airlines",
     "Destination": "NASHVILLE (BNA)",
     "ScheduledTime": "2021-10-24T14:10:00Z",
     "ScheduledDateTime": "2:10 PM",
@@ -15383,7 +15359,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637784",
-    "TimeSortKey": 673
+    "TimeSortKey": 672
   },
   {
     "ID": 1133168,
@@ -15405,6 +15381,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637785",
+    "TimeSortKey": 673
+  },
+  {
+    "ID": 1133161,
+    "Flightnumber": "885",
+    "Airline": "Southwest Airlines",
+    "Destination": "CHARLESTON, S.C. (CHS)",
+    "ScheduledTime": "2021-10-24T14:10:00Z",
+    "ScheduledDateTime": "2:10 PM",
+    "Terminal": "4",
+    "Gate": "D5",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "2:10 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637784",
     "TimeSortKey": 674
   },
   {
@@ -15523,7 +15521,7 @@
     "ID": 1132606,
     "Flightnumber": "463",
     "Airline": "Southwest Airlines",
-    "Destination": "DALLAS (DAL)",
+    "Destination": "CLEVELAND (CLE)",
     "ScheduledTime": "2021-10-24T14:15:00Z",
     "ScheduledDateTime": "2:15 PM",
     "Terminal": "4",
@@ -15545,7 +15543,7 @@
     "ID": 1132606,
     "Flightnumber": "463",
     "Airline": "Southwest Airlines",
-    "Destination": "CLEVELAND (CLE)",
+    "Destination": "DALLAS (DAL)",
     "ScheduledTime": "2021-10-24T14:15:00Z",
     "ScheduledDateTime": "2:15 PM",
     "Terminal": "4",
@@ -16938,6 +16936,28 @@
     "TimeSortKey": 741
   },
   {
+    "ID": 1132656,
+    "Flightnumber": "1065",
+    "Airline": "Southwest Airlines",
+    "Destination": "DENVER (DEN)",
+    "ScheduledTime": "2021-10-24T15:05:00Z",
+    "ScheduledDateTime": "3:05 PM",
+    "Terminal": "4",
+    "Gate": "C7",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "3:05 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637260",
+    "TimeSortKey": 742
+  },
+  {
     "ID": 1133176,
     "Flightnumber": "463",
     "Airline": "Southwest Airlines",
@@ -16957,7 +16977,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637798",
-    "TimeSortKey": 742
+    "TimeSortKey": 743
   },
   {
     "ID": 1133176,
@@ -16979,28 +16999,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637798",
-    "TimeSortKey": 743
-  },
-  {
-    "ID": 1132656,
-    "Flightnumber": "1065",
-    "Airline": "Southwest Airlines",
-    "Destination": "DENVER (DEN)",
-    "ScheduledTime": "2021-10-24T15:05:00Z",
-    "ScheduledDateTime": "3:05 PM",
-    "Terminal": "4",
-    "Gate": "C7",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "3:05 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637260",
     "TimeSortKey": 744
   },
   {
@@ -17338,28 +17336,6 @@
     "TimeSortKey": 759
   },
   {
-    "ID": 1132657,
-    "Flightnumber": "5024",
-    "Airline": "Southwest Airlines",
-    "Destination": "DENVER (DEN)",
-    "ScheduledTime": "2021-10-24T15:20:00Z",
-    "ScheduledDateTime": "3:20 PM",
-    "Terminal": "4",
-    "Gate": "D2",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "3:20 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637270",
-    "TimeSortKey": 760
-  },
-  {
     "ID": 1133205,
     "Flightnumber": "3836",
     "Airline": "Southwest Airlines",
@@ -17379,6 +17355,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637803",
+    "TimeSortKey": 760
+  },
+  {
+    "ID": 1132657,
+    "Flightnumber": "5024",
+    "Airline": "Southwest Airlines",
+    "Destination": "DENVER (DEN)",
+    "ScheduledTime": "2021-10-24T15:20:00Z",
+    "ScheduledDateTime": "3:20 PM",
+    "Terminal": "4",
+    "Gate": "D2",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "3:20 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637270",
     "TimeSortKey": 761
   },
   {
@@ -17654,6 +17652,28 @@
     "TimeSortKey": 773
   },
   {
+    "ID": 1132642,
+    "Flightnumber": "3634",
+    "Airline": "Southwest Airlines",
+    "Destination": "DALLAS (DAL)",
+    "ScheduledTime": "2021-10-24T15:30:00Z",
+    "ScheduledDateTime": "3:30 PM",
+    "Terminal": "4",
+    "Gate": "C19",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "3:30 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637273",
+    "TimeSortKey": 774
+  },
+  {
     "ID": 1133210,
     "Flightnumber": "5979",
     "Airline": "American Airlines",
@@ -17673,7 +17693,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637813",
-    "TimeSortKey": 774
+    "TimeSortKey": 775
   },
   {
     "ID": 1132642,
@@ -17695,7 +17715,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637273",
-    "TimeSortKey": 775
+    "TimeSortKey": 776
   },
   {
     "ID": 1133201,
@@ -17717,28 +17737,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637812",
-    "TimeSortKey": 776
-  },
-  {
-    "ID": 1132642,
-    "Flightnumber": "3634",
-    "Airline": "Southwest Airlines",
-    "Destination": "DALLAS (DAL)",
-    "ScheduledTime": "2021-10-24T15:30:00Z",
-    "ScheduledDateTime": "3:30 PM",
-    "Terminal": "4",
-    "Gate": "C19",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "3:30 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637273",
     "TimeSortKey": 777
   },
   {
@@ -18207,6 +18205,28 @@
     "TimeSortKey": 797
   },
   {
+    "ID": 1133207,
+    "Flightnumber": "1066",
+    "Airline": "Southwest Airlines",
+    "Destination": "DENVER (DEN)",
+    "ScheduledTime": "2021-10-24T15:55:00Z",
+    "ScheduledDateTime": "3:55 PM",
+    "Terminal": "4",
+    "Gate": "D2",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "3:55 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637826",
+    "TimeSortKey": 798
+  },
+  {
     "ID": 1132609,
     "Flightnumber": "1094",
     "Airline": "United Airlines",
@@ -18228,28 +18248,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2637237",
-    "TimeSortKey": 798
-  },
-  {
-    "ID": 1133207,
-    "Flightnumber": "1066",
-    "Airline": "Southwest Airlines",
-    "Destination": "DENVER (DEN)",
-    "ScheduledTime": "2021-10-24T15:55:00Z",
-    "ScheduledDateTime": "3:55 PM",
-    "Terminal": "4",
-    "Gate": "D2",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "3:55 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637826",
     "TimeSortKey": 799
   },
   {
@@ -19780,28 +19778,6 @@
     "TimeSortKey": 866
   },
   {
-    "ID": 1132715,
-    "Flightnumber": "3449",
-    "Airline": "Southwest Airlines",
-    "Destination": "PALM SPRINGS (PSP)",
-    "ScheduledTime": "2021-10-24T16:50:00Z",
-    "ScheduledDateTime": "4:50 PM",
-    "Terminal": "4",
-    "Gate": "C7",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "4:50 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637317",
-    "TimeSortKey": 867
-  },
-  {
     "ID": 1133223,
     "Flightnumber": "3034",
     "Airline": "American Airlines",
@@ -19821,17 +19797,17 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637843",
-    "TimeSortKey": 868
+    "TimeSortKey": 867
   },
   {
-    "ID": 1132706,
-    "Flightnumber": "123",
+    "ID": 1132715,
+    "Flightnumber": "3449",
     "Airline": "Southwest Airlines",
-    "Destination": "KONA (KOA)",
+    "Destination": "PALM SPRINGS (PSP)",
     "ScheduledTime": "2021-10-24T16:50:00Z",
     "ScheduledDateTime": "4:50 PM",
     "Terminal": "4",
-    "Gate": "D7",
+    "Gate": "C7",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -19842,8 +19818,8 @@
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637318",
-    "TimeSortKey": 869
+    "Topic": "2637317",
+    "TimeSortKey": 868
   },
   {
     "ID": 1133228,
@@ -19867,6 +19843,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637840",
+    "TimeSortKey": 869
+  },
+  {
+    "ID": 1132706,
+    "Flightnumber": "123",
+    "Airline": "Southwest Airlines",
+    "Destination": "KONA (KOA)",
+    "ScheduledTime": "2021-10-24T16:50:00Z",
+    "ScheduledDateTime": "4:50 PM",
+    "Terminal": "4",
+    "Gate": "D7",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "4:50 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637318",
     "TimeSortKey": 870
   },
   {
@@ -20078,30 +20076,6 @@
     "TimeSortKey": 879
   },
   {
-    "ID": 1133218,
-    "Flightnumber": "2988",
-    "Airline": "American Airlines",
-    "Destination": "TUCSON (TUS)",
-    "ScheduledTime": "2021-10-24T16:55:00Z",
-    "ScheduledDateTime": "4:55 PM",
-    "Terminal": "4",
-    "Gate": "B16",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [
-      "ALASKA AIRLINES #6674"
-    ],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "4:55 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637849",
-    "TimeSortKey": 880
-  },
-  {
     "ID": 1132341,
     "Flightnumber": "1516",
     "Airline": "WestJet Airlines",
@@ -20123,6 +20097,30 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WS_sml.png",
     "Topic": "2636955",
+    "TimeSortKey": 880
+  },
+  {
+    "ID": 1133218,
+    "Flightnumber": "2988",
+    "Airline": "American Airlines",
+    "Destination": "TUCSON (TUS)",
+    "ScheduledTime": "2021-10-24T16:55:00Z",
+    "ScheduledDateTime": "4:55 PM",
+    "Terminal": "4",
+    "Gate": "B16",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "ALASKA AIRLINES #6674"
+    ],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "4:55 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637849",
     "TimeSortKey": 881
   },
   {
@@ -21578,28 +21576,6 @@
     "TimeSortKey": 944
   },
   {
-    "ID": 1132737,
-    "Flightnumber": "1057",
-    "Airline": "American Airlines",
-    "Destination": "BOSTON (BOS)",
-    "ScheduledTime": "2021-10-24T17:53:00Z",
-    "ScheduledDateTime": "5:53 PM",
-    "Terminal": "4",
-    "Gate": "A12",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "5:53 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637345",
-    "TimeSortKey": 945
-  },
-  {
     "ID": 1132730,
     "Flightnumber": "2714",
     "Airline": "Frontier Airlines",
@@ -21619,6 +21595,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_sml.png",
     "Topic": "2637343",
+    "TimeSortKey": 945
+  },
+  {
+    "ID": 1132737,
+    "Flightnumber": "1057",
+    "Airline": "American Airlines",
+    "Destination": "BOSTON (BOS)",
+    "ScheduledTime": "2021-10-24T17:53:00Z",
+    "ScheduledDateTime": "5:53 PM",
+    "Terminal": "4",
+    "Gate": "A12",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "5:53 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637345",
     "TimeSortKey": 946
   },
   {
@@ -21805,7 +21803,7 @@
     "ID": 1132722,
     "Flightnumber": "4097",
     "Airline": "Southwest Airlines",
-    "Destination": "CLEVELAND (CLE)",
+    "Destination": "NASHVILLE (BNA)",
     "ScheduledTime": "2021-10-24T18:00:00Z",
     "ScheduledDateTime": "6:00 PM",
     "Terminal": "4",
@@ -21827,7 +21825,7 @@
     "ID": 1132722,
     "Flightnumber": "4097",
     "Airline": "Southwest Airlines",
-    "Destination": "NASHVILLE (BNA)",
+    "Destination": "CLEVELAND (CLE)",
     "ScheduledTime": "2021-10-24T18:00:00Z",
     "ScheduledDateTime": "6:00 PM",
     "Terminal": "4",
@@ -21941,7 +21939,7 @@
     "ID": 1132725,
     "Flightnumber": "4420",
     "Airline": "Southwest Airlines",
-    "Destination": "SACRAMENTO (SMF)",
+    "Destination": "SAN DIEGO (SAN)",
     "ScheduledTime": "2021-10-24T18:05:00Z",
     "ScheduledDateTime": "6:05 PM",
     "Terminal": "4",
@@ -21963,7 +21961,7 @@
     "ID": 1132725,
     "Flightnumber": "4420",
     "Airline": "Southwest Airlines",
-    "Destination": "SAN DIEGO (SAN)",
+    "Destination": "SACRAMENTO (SMF)",
     "ScheduledTime": "2021-10-24T18:05:00Z",
     "ScheduledDateTime": "6:05 PM",
     "Terminal": "4",
@@ -22448,6 +22446,28 @@
     "TimeSortKey": 982
   },
   {
+    "ID": 1132747,
+    "Flightnumber": "3277",
+    "Airline": "Southwest Airlines",
+    "Destination": "DENVER (DEN)",
+    "ScheduledTime": "2021-10-24T18:15:00Z",
+    "ScheduledDateTime": "6:15 PM",
+    "Terminal": "4",
+    "Gate": "C3",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "6:15 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637372",
+    "TimeSortKey": 983
+  },
+  {
     "ID": 1132746,
     "Flightnumber": "5779",
     "Airline": "American Airlines",
@@ -22469,28 +22489,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637370",
-    "TimeSortKey": 983
-  },
-  {
-    "ID": 1132747,
-    "Flightnumber": "3277",
-    "Airline": "Southwest Airlines",
-    "Destination": "BOZEMAN (BZN)",
-    "ScheduledTime": "2021-10-24T18:15:00Z",
-    "ScheduledDateTime": "6:15 PM",
-    "Terminal": "4",
-    "Gate": "C3",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "6:15 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637372",
     "TimeSortKey": 984
   },
   {
@@ -22519,7 +22517,7 @@
     "ID": 1132747,
     "Flightnumber": "3277",
     "Airline": "Southwest Airlines",
-    "Destination": "DENVER (DEN)",
+    "Destination": "BOZEMAN (BZN)",
     "ScheduledTime": "2021-10-24T18:15:00Z",
     "ScheduledDateTime": "6:15 PM",
     "Terminal": "4",
@@ -22744,6 +22742,28 @@
     "TimeSortKey": 995
   },
   {
+    "ID": 1133267,
+    "Flightnumber": "3117",
+    "Airline": "Southwest Airlines",
+    "Destination": "NASHVILLE (BNA)",
+    "ScheduledTime": "2021-10-24T18:20:00Z",
+    "ScheduledDateTime": "6:20 PM",
+    "Terminal": "4",
+    "Gate": "C4",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "6:20 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637882",
+    "TimeSortKey": 996
+  },
+  {
     "ID": 1132772,
     "Flightnumber": "1309",
     "Airline": "American Airlines",
@@ -22765,28 +22785,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637379",
-    "TimeSortKey": 996
-  },
-  {
-    "ID": 1133267,
-    "Flightnumber": "3117",
-    "Airline": "Southwest Airlines",
-    "Destination": "NASHVILLE (BNA)",
-    "ScheduledTime": "2021-10-24T18:20:00Z",
-    "ScheduledDateTime": "6:20 PM",
-    "Terminal": "4",
-    "Gate": "C4",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "6:20 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637882",
     "TimeSortKey": 997
   },
   {
@@ -22834,6 +22832,28 @@
     "TimeSortKey": 999
   },
   {
+    "ID": 1132745,
+    "Flightnumber": "778",
+    "Airline": "American Airlines",
+    "Destination": "CHARLOTTE (CLT)",
+    "ScheduledTime": "2021-10-24T18:24:00Z",
+    "ScheduledDateTime": "6:24 PM",
+    "Terminal": "4",
+    "Gate": "A5",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "6:24 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637382",
+    "TimeSortKey": 1000
+  },
+  {
     "ID": 1132759,
     "Flightnumber": "621",
     "Airline": "American Airlines",
@@ -22855,28 +22875,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637383",
-    "TimeSortKey": 1000
-  },
-  {
-    "ID": 1132745,
-    "Flightnumber": "778",
-    "Airline": "American Airlines",
-    "Destination": "CHARLOTTE (CLT)",
-    "ScheduledTime": "2021-10-24T18:24:00Z",
-    "ScheduledDateTime": "6:24 PM",
-    "Terminal": "4",
-    "Gate": "A5",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "6:24 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637382",
     "TimeSortKey": 1001
   },
   {
@@ -23288,6 +23286,28 @@
     "TimeSortKey": 1019
   },
   {
+    "ID": 1132796,
+    "Flightnumber": "5964",
+    "Airline": "American Airlines",
+    "Destination": "CEDAR RAPIDS (CID)",
+    "ScheduledTime": "2021-10-24T18:35:00Z",
+    "ScheduledDateTime": "6:35 PM",
+    "Terminal": "4",
+    "Gate": "B1A",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "6:35 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637394",
+    "TimeSortKey": 1020
+  },
+  {
     "ID": 1133264,
     "Flightnumber": "4603",
     "Airline": "Southwest Airlines",
@@ -23307,7 +23327,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637885",
-    "TimeSortKey": 1020
+    "TimeSortKey": 1021
   },
   {
     "ID": 1133262,
@@ -23329,28 +23349,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637886",
-    "TimeSortKey": 1021
-  },
-  {
-    "ID": 1132796,
-    "Flightnumber": "5964",
-    "Airline": "American Airlines",
-    "Destination": "CEDAR RAPIDS (CID)",
-    "ScheduledTime": "2021-10-24T18:35:00Z",
-    "ScheduledDateTime": "6:35 PM",
-    "Terminal": "4",
-    "Gate": "B1A",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "6:35 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637394",
     "TimeSortKey": 1022
   },
   {
@@ -23558,28 +23556,6 @@
     "TimeSortKey": 1031
   },
   {
-    "ID": 1132786,
-    "Flightnumber": "4676",
-    "Airline": "Southwest Airlines",
-    "Destination": "ORANGE COUNTY (SNA)",
-    "ScheduledTime": "2021-10-24T18:45:00Z",
-    "ScheduledDateTime": "6:45 PM",
-    "Terminal": "4",
-    "Gate": "C1",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "6:45 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637401",
-    "TimeSortKey": 1032
-  },
-  {
     "ID": 1133273,
     "Flightnumber": "4415",
     "Airline": "Southwest Airlines",
@@ -23599,6 +23575,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637888",
+    "TimeSortKey": 1032
+  },
+  {
+    "ID": 1132786,
+    "Flightnumber": "4676",
+    "Airline": "Southwest Airlines",
+    "Destination": "ORANGE COUNTY (SNA)",
+    "ScheduledTime": "2021-10-24T18:45:00Z",
+    "ScheduledDateTime": "6:45 PM",
+    "Terminal": "4",
+    "Gate": "C1",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "6:45 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637401",
     "TimeSortKey": 1033
   },
   {
@@ -23870,28 +23868,6 @@
     "TimeSortKey": 1045
   },
   {
-    "ID": 1133301,
-    "Flightnumber": "3043",
-    "Airline": "American Airlines",
-    "Destination": "SANTA BARBARA (SBA)",
-    "ScheduledTime": "2021-10-24T19:00:00Z",
-    "ScheduledDateTime": "7:00 PM",
-    "Terminal": "4",
-    "Gate": "A1",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "7:00 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637902",
-    "TimeSortKey": 1046
-  },
-  {
     "ID": 1133316,
     "Flightnumber": "3062",
     "Airline": "American Airlines",
@@ -23911,6 +23887,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637903",
+    "TimeSortKey": 1046
+  },
+  {
+    "ID": 1133301,
+    "Flightnumber": "3043",
+    "Airline": "American Airlines",
+    "Destination": "SANTA BARBARA (SBA)",
+    "ScheduledTime": "2021-10-24T19:00:00Z",
+    "ScheduledDateTime": "7:00 PM",
+    "Terminal": "4",
+    "Gate": "A1",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "7:00 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637902",
     "TimeSortKey": 1047
   },
   {
@@ -24184,6 +24182,28 @@
     "TimeSortKey": 1059
   },
   {
+    "ID": 1132783,
+    "Flightnumber": "1502",
+    "Airline": "Southwest Airlines",
+    "Destination": "ST. LOUIS (STL)",
+    "ScheduledTime": "2021-10-24T19:00:00Z",
+    "ScheduledDateTime": "7:00 PM",
+    "Terminal": "4",
+    "Gate": "C7",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "7:00 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637405",
+    "TimeSortKey": 1060
+  },
+  {
     "ID": 1133300,
     "Flightnumber": "3035",
     "Airline": "American Airlines",
@@ -24205,28 +24225,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637901",
-    "TimeSortKey": 1060
-  },
-  {
-    "ID": 1132783,
-    "Flightnumber": "1502",
-    "Airline": "Southwest Airlines",
-    "Destination": "ST. LOUIS (STL)",
-    "ScheduledTime": "2021-10-24T19:00:00Z",
-    "ScheduledDateTime": "7:00 PM",
-    "Terminal": "4",
-    "Gate": "C7",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "7:00 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637405",
     "TimeSortKey": 1061
   },
   {
@@ -24594,30 +24592,6 @@
     "TimeSortKey": 1077
   },
   {
-    "ID": 1133317,
-    "Flightnumber": "3279",
-    "Airline": "American Airlines",
-    "Destination": "YUMA (YUM)",
-    "ScheduledTime": "2021-10-24T19:10:00Z",
-    "ScheduledDateTime": "7:10 PM",
-    "Terminal": "4",
-    "Gate": "B3",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [
-      "ALASKA AIRLINES #6768"
-    ],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "7:10 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637911",
-    "TimeSortKey": 1078
-  },
-  {
     "ID": 1133307,
     "Flightnumber": "5870",
     "Airline": "American Airlines",
@@ -24639,6 +24613,30 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637912",
+    "TimeSortKey": 1078
+  },
+  {
+    "ID": 1133317,
+    "Flightnumber": "3279",
+    "Airline": "American Airlines",
+    "Destination": "YUMA (YUM)",
+    "ScheduledTime": "2021-10-24T19:10:00Z",
+    "ScheduledDateTime": "7:10 PM",
+    "Terminal": "4",
+    "Gate": "B3",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "ALASKA AIRLINES #6768"
+    ],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "7:10 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637911",
     "TimeSortKey": 1079
   },
   {
@@ -24807,31 +24805,6 @@
     "TimeSortKey": 1086
   },
   {
-    "ID": 1133311,
-    "Flightnumber": "820",
-    "Airline": "American Airlines",
-    "Destination": "LOS ANGELES (LAX)",
-    "ScheduledTime": "2021-10-24T19:15:00Z",
-    "ScheduledDateTime": "7:15 PM",
-    "Terminal": "4",
-    "Gate": "A21",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [
-      "CHINA SOUTHERN AIRLINES #1650",
-      "AIR TAHITI NUI #1301"
-    ],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "7:15 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2637914",
-    "TimeSortKey": 1087
-  },
-  {
     "ID": 1132819,
     "Flightnumber": "833",
     "Airline": "American Airlines",
@@ -24854,6 +24827,31 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2637423",
+    "TimeSortKey": 1087
+  },
+  {
+    "ID": 1133311,
+    "Flightnumber": "820",
+    "Airline": "American Airlines",
+    "Destination": "LOS ANGELES (LAX)",
+    "ScheduledTime": "2021-10-24T19:15:00Z",
+    "ScheduledDateTime": "7:15 PM",
+    "Terminal": "4",
+    "Gate": "A21",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "CHINA SOUTHERN AIRLINES #1650",
+      "AIR TAHITI NUI #1301"
+    ],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "7:15 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637914",
     "TimeSortKey": 1088
   },
   {
@@ -26273,7 +26271,7 @@
     "ID": 1132843,
     "Flightnumber": "6192",
     "Airline": "Southwest Airlines",
-    "Destination": "BURBANK (BUR)",
+    "Destination": "COLORADO SPRINGS (COS)",
     "ScheduledTime": "2021-10-24T20:00:00Z",
     "ScheduledDateTime": "8:00 PM",
     "Terminal": "4",
@@ -26290,50 +26288,6 @@
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637450",
     "TimeSortKey": 1151
-  },
-  {
-    "ID": 1132839,
-    "Flightnumber": "1101",
-    "Airline": "Southwest Airlines",
-    "Destination": "DENVER (DEN)",
-    "ScheduledTime": "2021-10-24T20:00:00Z",
-    "ScheduledDateTime": "8:00 PM",
-    "Terminal": "4",
-    "Gate": "D3",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "8:00 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637451",
-    "TimeSortKey": 1152
-  },
-  {
-    "ID": 1132843,
-    "Flightnumber": "6192",
-    "Airline": "Southwest Airlines",
-    "Destination": "DALLAS (DAL)",
-    "ScheduledTime": "2021-10-24T20:00:00Z",
-    "ScheduledDateTime": "8:00 PM",
-    "Terminal": "4",
-    "Gate": "C14",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "8:00 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637450",
-    "TimeSortKey": 1153
   },
   {
     "ID": 1132830,
@@ -26355,13 +26309,57 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637449",
+    "TimeSortKey": 1152
+  },
+  {
+    "ID": 1132839,
+    "Flightnumber": "1101",
+    "Airline": "Southwest Airlines",
+    "Destination": "DENVER (DEN)",
+    "ScheduledTime": "2021-10-24T20:00:00Z",
+    "ScheduledDateTime": "8:00 PM",
+    "Terminal": "4",
+    "Gate": "D3",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "8:00 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637451",
+    "TimeSortKey": 1153
+  },
+  {
+    "ID": 1132843,
+    "Flightnumber": "6192",
+    "Airline": "Southwest Airlines",
+    "Destination": "DALLAS (DAL)",
+    "ScheduledTime": "2021-10-24T20:00:00Z",
+    "ScheduledDateTime": "8:00 PM",
+    "Terminal": "4",
+    "Gate": "C14",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "8:00 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637450",
     "TimeSortKey": 1154
   },
   {
     "ID": 1132843,
     "Flightnumber": "6192",
     "Airline": "Southwest Airlines",
-    "Destination": "COLORADO SPRINGS (COS)",
+    "Destination": "BURBANK (BUR)",
     "ScheduledTime": "2021-10-24T20:00:00Z",
     "ScheduledDateTime": "8:00 PM",
     "Terminal": "4",
@@ -27160,28 +27158,6 @@
     "TimeSortKey": 1189
   },
   {
-    "ID": 1132898,
-    "Flightnumber": "2866",
-    "Airline": "Southwest Airlines",
-    "Destination": "DENVER (DEN)",
-    "ScheduledTime": "2021-10-24T20:30:00Z",
-    "ScheduledDateTime": "8:30 PM",
-    "Terminal": "4",
-    "Gate": "C17",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "8:30 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2637464",
-    "TimeSortKey": 1190
-  },
-  {
     "ID": 1132878,
     "Flightnumber": "410",
     "Airline": "Southwest Airlines",
@@ -27201,6 +27177,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2637466",
+    "TimeSortKey": 1190
+  },
+  {
+    "ID": 1132898,
+    "Flightnumber": "2866",
+    "Airline": "Southwest Airlines",
+    "Destination": "DENVER (DEN)",
+    "ScheduledTime": "2021-10-24T20:30:00Z",
+    "ScheduledDateTime": "8:30 PM",
+    "Terminal": "4",
+    "Gate": "C17",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "8:30 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637464",
     "TimeSortKey": 1191
   },
   {
@@ -27601,5 +27599,98 @@
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2637472",
     "TimeSortKey": 1209
+  },
+  {
+    "ID": 1133354,
+    "Flightnumber": "1658",
+    "Airline": "Southwest Airlines",
+    "Destination": "COLORADO SPRINGS (COS)",
+    "ScheduledTime": "2021-10-24T20:45:00Z",
+    "ScheduledDateTime": "8:45 PM",
+    "Terminal": "4",
+    "Gate": "D2",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "8:45 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637959",
+    "TimeSortKey": 1210
+  },
+  {
+    "ID": 1133324,
+    "Flightnumber": "1786",
+    "Airline": "Southwest Airlines",
+    "Destination": "EL PASO (ELP)",
+    "ScheduledTime": "2021-10-24T20:45:00Z",
+    "ScheduledDateTime": "8:45 PM",
+    "Terminal": "4",
+    "Gate": "B23",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "8:45 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2637958",
+    "TimeSortKey": 1211
+  },
+  {
+    "ID": 1132848,
+    "Flightnumber": "606",
+    "Airline": "American Airlines",
+    "Destination": "NEWARK (EWR)",
+    "ScheduledTime": "2021-10-24T20:46:00Z",
+    "ScheduledDateTime": "8:46 PM",
+    "Terminal": "4",
+    "Gate": "A5",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "JETBLUE AIRWAYS #4380"
+    ],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "8:46 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2637474",
+    "TimeSortKey": 1212
+  },
+  {
+    "ID": 1132899,
+    "Flightnumber": "1115",
+    "Airline": "United Airlines",
+    "Destination": "HOUSTON (IAH)",
+    "ScheduledTime": "2021-10-24T20:50:00Z",
+    "ScheduledDateTime": "8:50 PM",
+    "Terminal": "3",
+    "Gate": "E10",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "LUFTHANSA #8631",
+      "AIR NEW ZEALAND #6871"
+    ],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "8:50 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
+    "Topic": "2637475",
+    "TimeSortKey": 1213
   }
 ]

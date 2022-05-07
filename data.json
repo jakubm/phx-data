@@ -20780,5 +20780,30 @@
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2846262",
     "TimeSortKey": 902
+  },
+  {
+    "ID": 1344235,
+    "Flightnumber": "650",
+    "Airline": "United Airlines",
+    "Destination": "HOUSTON (IAH)",
+    "ScheduledTime": "2022-05-07T22:48:00Z",
+    "ScheduledDateTime": "10:48 PM",
+    "Terminal": "3",
+    "Gate": "E1",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "LUFTHANSA #8630",
+      "AIR NEW ZEALAND #6872"
+    ],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "10:48 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
+    "Topic": "2845923",
+    "TimeSortKey": 903
   }
 ]

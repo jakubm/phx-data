@@ -25501,5 +25501,30 @@
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2908231",
     "TimeSortKey": 1109
+  },
+  {
+    "ID": 1404937,
+    "Flightnumber": "1392",
+    "Airline": "Delta Air Lines",
+    "Destination": "SALT LAKE CITY (SLC)",
+    "ScheduledTime": "2022-07-07T22:02:00Z",
+    "ScheduledDateTime": "10:02 PM",
+    "Terminal": "3",
+    "Gate": "F6",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "AEROMEXICO #4221",
+      "VIRGIN ATLANTIC #3333"
+    ],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "10:02 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
+    "Topic": "2908233",
+    "TimeSortKey": 1110
   }
 ]

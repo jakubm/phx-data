@@ -449,7 +449,7 @@
     "ScheduledTime": "2022-08-13T05:10:00Z",
     "ScheduledDateTime": "5:10 AM",
     "Terminal": "4",
-    "Gate": "D14",
+    "Gate": "D8",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -1452,7 +1452,7 @@
     "Gate": "C6",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "2",
+    "BagClaim": "4",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -1608,7 +1608,7 @@
     "Gate": "A9",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "5",
+    "BagClaim": "1",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -1787,28 +1787,6 @@
     "TimeSortKey": 77
   },
   {
-    "ID": 1443261,
-    "Flightnumber": "4497",
-    "Airline": "Southwest Airlines",
-    "Destination": "PORTLAND (PDX)",
-    "ScheduledTime": "2022-08-13T07:15:00Z",
-    "ScheduledDateTime": "7:15 AM",
-    "Terminal": "4",
-    "Gate": "C1",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "7:15 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948306",
-    "TimeSortKey": 78
-  },
-  {
     "ID": 1442940,
     "Flightnumber": "487",
     "Airline": "United Airlines",
@@ -1834,6 +1812,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2947780",
+    "TimeSortKey": 78
+  },
+  {
+    "ID": 1443261,
+    "Flightnumber": "4497",
+    "Airline": "Southwest Airlines",
+    "Destination": "PORTLAND (PDX)",
+    "ScheduledTime": "2022-08-13T07:15:00Z",
+    "ScheduledDateTime": "7:15 AM",
+    "Terminal": "4",
+    "Gate": "C1",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "7:15 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948306",
     "TimeSortKey": 79
   },
   {
@@ -1866,7 +1866,7 @@
     "ScheduledTime": "2022-08-13T07:15:00Z",
     "ScheduledDateTime": "7:15 AM",
     "Terminal": "4",
-    "Gate": "D8",
+    "Gate": "D14",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -2190,7 +2190,7 @@
     "Gate": "A20",
     "Status": "Now 7:26 AM",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "5",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -2402,7 +2402,7 @@
     "Gate": "A22",
     "Status": "Now 7:33 AM",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "5",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -2632,7 +2632,7 @@
     "Gate": "D8",
     "Status": "Now 7:28 AM",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "6",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -2642,6 +2642,28 @@
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948779",
     "TimeSortKey": 114
+  },
+  {
+    "ID": 1443717,
+    "Flightnumber": "370",
+    "Airline": "Southwest Airlines",
+    "Destination": "AUSTIN (AUS)",
+    "ScheduledTime": "2022-08-13T07:50:00Z",
+    "ScheduledDateTime": "7:50 AM",
+    "Terminal": "4",
+    "Gate": "D8",
+    "Status": "Now 7:28 AM",
+    "StatusCode": "ON",
+    "BagClaim": "6",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "7:28 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948779",
+    "TimeSortKey": 115
   },
   {
     "ID": 1443715,
@@ -2663,28 +2685,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948778",
-    "TimeSortKey": 115
-  },
-  {
-    "ID": 1443717,
-    "Flightnumber": "370",
-    "Airline": "Southwest Airlines",
-    "Destination": "AUSTIN (AUS)",
-    "ScheduledTime": "2022-08-13T07:50:00Z",
-    "ScheduledDateTime": "7:50 AM",
-    "Terminal": "4",
-    "Gate": "D8",
-    "Status": "Now 7:28 AM",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "7:28 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948779",
     "TimeSortKey": 116
   },
   {
@@ -2762,28 +2762,6 @@
     "TimeSortKey": 119
   },
   {
-    "ID": 1443731,
-    "Flightnumber": "4744",
-    "Airline": "Southwest Airlines",
-    "Destination": "CHICAGO - MIDWAY (MDW)",
-    "ScheduledTime": "2022-08-13T07:55:00Z",
-    "ScheduledDateTime": "7:55 AM",
-    "Terminal": "4",
-    "Gate": "C4",
-    "Status": "Now 7:18 AM",
-    "StatusCode": "ON",
-    "BagClaim": "4",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "7:18 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948786",
-    "TimeSortKey": 120
-  },
-  {
     "ID": 1443718,
     "Flightnumber": "3900",
     "Airline": "Southwest Airlines",
@@ -2803,7 +2781,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948785",
-    "TimeSortKey": 121
+    "TimeSortKey": 120
   },
   {
     "ID": 1443734,
@@ -2827,6 +2805,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948784",
+    "TimeSortKey": 121
+  },
+  {
+    "ID": 1443731,
+    "Flightnumber": "4744",
+    "Airline": "Southwest Airlines",
+    "Destination": "CHICAGO - MIDWAY (MDW)",
+    "ScheduledTime": "2022-08-13T07:55:00Z",
+    "ScheduledDateTime": "7:55 AM",
+    "Terminal": "4",
+    "Gate": "C4",
+    "Status": "Now 7:18 AM",
+    "StatusCode": "ON",
+    "BagClaim": "2",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "7:18 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948786",
     "TimeSortKey": 122
   },
   {
@@ -2840,7 +2840,7 @@
     "Gate": "C6",
     "Status": "Now 7:24 AM",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "4",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -3041,13 +3041,13 @@
     "ScheduledDateTime": "8:00 AM",
     "Terminal": "4",
     "Gate": "C18",
-    "Status": "Now 7:23 AM",
+    "Status": "Now 7:28 AM",
     "StatusCode": "ON",
     "BagClaim": "4",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
-    "Estimated": "7:23 AM",
+    "Estimated": "7:28 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
@@ -3506,7 +3506,7 @@
     "ScheduledTime": "2022-08-13T08:23:00Z",
     "ScheduledDateTime": "8:23 AM",
     "Terminal": "4",
-    "Gate": "",
+    "Gate": "B25",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -3595,6 +3595,28 @@
     "TimeSortKey": 156
   },
   {
+    "ID": 1443319,
+    "Flightnumber": "4302",
+    "Airline": "Southwest Airlines",
+    "Destination": "SAN JOSE (SJC)",
+    "ScheduledTime": "2022-08-13T08:30:00Z",
+    "ScheduledDateTime": "8:30 AM",
+    "Terminal": "4",
+    "Gate": "D11",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "8:30 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948332",
+    "TimeSortKey": 157
+  },
+  {
     "ID": 1443282,
     "Flightnumber": "1820",
     "Airline": "Southwest Airlines",
@@ -3614,7 +3636,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948330",
-    "TimeSortKey": 157
+    "TimeSortKey": 158
   },
   {
     "ID": 1443312,
@@ -3636,28 +3658,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948327",
-    "TimeSortKey": 158
-  },
-  {
-    "ID": 1443319,
-    "Flightnumber": "4302",
-    "Airline": "Southwest Airlines",
-    "Destination": "SAN JOSE (SJC)",
-    "ScheduledTime": "2022-08-13T08:30:00Z",
-    "ScheduledDateTime": "8:30 AM",
-    "Terminal": "4",
-    "Gate": "D11",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "8:30 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948332",
     "TimeSortKey": 159
   },
   {
@@ -3752,14 +3752,14 @@
     "TimeSortKey": 163
   },
   {
-    "ID": 1443319,
-    "Flightnumber": "4302",
+    "ID": 1443306,
+    "Flightnumber": "4034",
     "Airline": "Southwest Airlines",
-    "Destination": "CHICAGO - MIDWAY (MDW)",
+    "Destination": "DENVER (DEN)",
     "ScheduledTime": "2022-08-13T08:30:00Z",
     "ScheduledDateTime": "8:30 AM",
     "Terminal": "4",
-    "Gate": "D11",
+    "Gate": "C16",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -3770,31 +3770,29 @@
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948332",
+    "Topic": "2948331",
     "TimeSortKey": 164
   },
   {
-    "ID": 1443281,
-    "Flightnumber": "2825",
-    "Airline": "American Airlines",
-    "Destination": "NEWARK (EWR)",
+    "ID": 1443306,
+    "Flightnumber": "4034",
+    "Airline": "Southwest Airlines",
+    "Destination": "ALBANY (ALB)",
     "ScheduledTime": "2022-08-13T08:30:00Z",
     "ScheduledDateTime": "8:30 AM",
     "Terminal": "4",
-    "Gate": "B14",
+    "Gate": "C16",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
-    "CodeShares": [
-      "JETBLUE AIRWAYS #4408"
-    ],
+    "CodeShares": [],
     "AD": "D",
     "Actual": "",
     "Estimated": "8:30 AM",
     "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2948328",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948331",
     "TimeSortKey": 165
   },
   {
@@ -3842,6 +3840,52 @@
     "TimeSortKey": 167
   },
   {
+    "ID": 1443281,
+    "Flightnumber": "2825",
+    "Airline": "American Airlines",
+    "Destination": "NEWARK (EWR)",
+    "ScheduledTime": "2022-08-13T08:30:00Z",
+    "ScheduledDateTime": "8:30 AM",
+    "Terminal": "4",
+    "Gate": "B14",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [
+      "JETBLUE AIRWAYS #4408"
+    ],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "8:30 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2948328",
+    "TimeSortKey": 168
+  },
+  {
+    "ID": 1443319,
+    "Flightnumber": "4302",
+    "Airline": "Southwest Airlines",
+    "Destination": "CHICAGO - MIDWAY (MDW)",
+    "ScheduledTime": "2022-08-13T08:30:00Z",
+    "ScheduledDateTime": "8:30 AM",
+    "Terminal": "4",
+    "Gate": "D11",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "8:30 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948332",
+    "TimeSortKey": 169
+  },
+  {
     "ID": 1443746,
     "Flightnumber": "4726",
     "Airline": "Southwest Airlines",
@@ -3861,50 +3905,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948809",
-    "TimeSortKey": 168
-  },
-  {
-    "ID": 1443306,
-    "Flightnumber": "4034",
-    "Airline": "Southwest Airlines",
-    "Destination": "ALBANY (ALB)",
-    "ScheduledTime": "2022-08-13T08:30:00Z",
-    "ScheduledDateTime": "8:30 AM",
-    "Terminal": "4",
-    "Gate": "C16",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "8:30 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948331",
-    "TimeSortKey": 169
-  },
-  {
-    "ID": 1443306,
-    "Flightnumber": "4034",
-    "Airline": "Southwest Airlines",
-    "Destination": "DENVER (DEN)",
-    "ScheduledTime": "2022-08-13T08:30:00Z",
-    "ScheduledDateTime": "8:30 AM",
-    "Terminal": "4",
-    "Gate": "C16",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "8:30 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948331",
     "TimeSortKey": 170
   },
   {
@@ -4645,28 +4645,6 @@
     "TimeSortKey": 202
   },
   {
-    "ID": 1443292,
-    "Flightnumber": "4179",
-    "Airline": "Southwest Airlines",
-    "Destination": "ONTARIO (ONT)",
-    "ScheduledTime": "2022-08-13T08:50:00Z",
-    "ScheduledDateTime": "8:50 AM",
-    "Terminal": "4",
-    "Gate": "D1",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "8:50 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948359",
-    "TimeSortKey": 203
-  },
-  {
     "ID": 1443293,
     "Flightnumber": "4669",
     "Airline": "Southwest Airlines",
@@ -4686,6 +4664,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948360",
+    "TimeSortKey": 203
+  },
+  {
+    "ID": 1443292,
+    "Flightnumber": "4179",
+    "Airline": "Southwest Airlines",
+    "Destination": "ONTARIO (ONT)",
+    "ScheduledTime": "2022-08-13T08:50:00Z",
+    "ScheduledDateTime": "8:50 AM",
+    "Terminal": "4",
+    "Gate": "D1",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "8:50 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948359",
     "TimeSortKey": 204
   },
   {
@@ -4825,28 +4825,6 @@
     "TimeSortKey": 210
   },
   {
-    "ID": 1443321,
-    "Flightnumber": "3099",
-    "Airline": "American Airlines",
-    "Destination": "DURANGO (DRO)",
-    "ScheduledTime": "2022-08-13T08:51:00Z",
-    "ScheduledDateTime": "8:51 AM",
-    "Terminal": "4",
-    "Gate": "B18",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "8:51 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2948362",
-    "TimeSortKey": 211
-  },
-  {
     "ID": 1443751,
     "Flightnumber": "569",
     "Airline": "American Airlines",
@@ -4868,6 +4846,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948816",
+    "TimeSortKey": 211
+  },
+  {
+    "ID": 1443321,
+    "Flightnumber": "3099",
+    "Airline": "American Airlines",
+    "Destination": "DURANGO (DRO)",
+    "ScheduledTime": "2022-08-13T08:51:00Z",
+    "ScheduledDateTime": "8:51 AM",
+    "Terminal": "4",
+    "Gate": "B18",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "8:51 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2948362",
     "TimeSortKey": 212
   },
   {
@@ -4895,6 +4895,28 @@
     "TimeSortKey": 213
   },
   {
+    "ID": 1443744,
+    "Flightnumber": "1861",
+    "Airline": "American Airlines",
+    "Destination": "AUSTIN (AUS)",
+    "ScheduledTime": "2022-08-13T08:53:00Z",
+    "ScheduledDateTime": "8:53 AM",
+    "Terminal": "4",
+    "Gate": "B8",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "8:53 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2948818",
+    "TimeSortKey": 214
+  },
+  {
     "ID": 1443311,
     "Flightnumber": "462",
     "Airline": "American Airlines",
@@ -4917,28 +4939,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948364",
-    "TimeSortKey": 214
-  },
-  {
-    "ID": 1443744,
-    "Flightnumber": "1861",
-    "Airline": "American Airlines",
-    "Destination": "AUSTIN (AUS)",
-    "ScheduledTime": "2022-08-13T08:53:00Z",
-    "ScheduledDateTime": "8:53 AM",
-    "Terminal": "4",
-    "Gate": "B8",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "8:53 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2948818",
     "TimeSortKey": 215
   },
   {
@@ -5032,6 +5032,28 @@
     "TimeSortKey": 219
   },
   {
+    "ID": 1443318,
+    "Flightnumber": "3307",
+    "Airline": "Southwest Airlines",
+    "Destination": "TAMPA (TPA)",
+    "ScheduledTime": "2022-08-13T08:55:00Z",
+    "ScheduledDateTime": "8:55 AM",
+    "Terminal": "4",
+    "Gate": "D6",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "8:55 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948366",
+    "TimeSortKey": 220
+  },
+  {
     "ID": 1442882,
     "Flightnumber": "1537",
     "Airline": "WestJet Airlines",
@@ -5053,28 +5075,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WS_sml.png",
     "Topic": "2947715",
-    "TimeSortKey": 220
-  },
-  {
-    "ID": 1443318,
-    "Flightnumber": "3307",
-    "Airline": "Southwest Airlines",
-    "Destination": "TAMPA (TPA)",
-    "ScheduledTime": "2022-08-13T08:55:00Z",
-    "ScheduledDateTime": "8:55 AM",
-    "Terminal": "4",
-    "Gate": "D6",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "8:55 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948366",
     "TimeSortKey": 221
   },
   {
@@ -5536,7 +5536,7 @@
     "ScheduledDateTime": "9:04 AM",
     "Terminal": "3",
     "Gate": "F10",
-    "Status": "Now 8:21 AM",
+    "Status": "Now 8:27 AM",
     "StatusCode": "ON",
     "BagClaim": "",
     "CodeShares": [
@@ -5546,7 +5546,7 @@
     ],
     "AD": "A",
     "Actual": "",
-    "Estimated": "8:21 AM",
+    "Estimated": "8:27 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
@@ -6550,28 +6550,6 @@
     "TimeSortKey": 285
   },
   {
-    "ID": 1443328,
-    "Flightnumber": "1280",
-    "Airline": "Southwest Airlines",
-    "Destination": "OKLAHOMA CITY (OKC)",
-    "ScheduledTime": "2022-08-13T09:45:00Z",
-    "ScheduledDateTime": "9:45 AM",
-    "Terminal": "4",
-    "Gate": "C18",
-    "Status": "Now 10:45 AM",
-    "StatusCode": "DL",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "10:45 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948384",
-    "TimeSortKey": 286
-  },
-  {
     "ID": 1443362,
     "Flightnumber": "2521",
     "Airline": "Southwest Airlines",
@@ -6591,6 +6569,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948385",
+    "TimeSortKey": 286
+  },
+  {
+    "ID": 1443328,
+    "Flightnumber": "1280",
+    "Airline": "Southwest Airlines",
+    "Destination": "OKLAHOMA CITY (OKC)",
+    "ScheduledTime": "2022-08-13T09:45:00Z",
+    "ScheduledDateTime": "9:45 AM",
+    "Terminal": "4",
+    "Gate": "C18",
+    "Status": "Now 10:45 AM",
+    "StatusCode": "DL",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "10:45 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948384",
     "TimeSortKey": 287
   },
   {
@@ -6732,28 +6732,6 @@
     "TimeSortKey": 293
   },
   {
-    "ID": 1443334,
-    "Flightnumber": "1536",
-    "Airline": "American Airlines",
-    "Destination": "SANTA BARBARA (SBA)",
-    "ScheduledTime": "2022-08-13T09:50:00Z",
-    "ScheduledDateTime": "9:50 AM",
-    "Terminal": "4",
-    "Gate": "A9",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "9:50 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2948388",
-    "TimeSortKey": 294
-  },
-  {
     "ID": 1443335,
     "Flightnumber": "1888",
     "Airline": "Southwest Airlines",
@@ -6773,6 +6751,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948389",
+    "TimeSortKey": 294
+  },
+  {
+    "ID": 1443334,
+    "Flightnumber": "1536",
+    "Airline": "American Airlines",
+    "Destination": "SANTA BARBARA (SBA)",
+    "ScheduledTime": "2022-08-13T09:50:00Z",
+    "ScheduledDateTime": "9:50 AM",
+    "Terminal": "4",
+    "Gate": "A9",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "9:50 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2948388",
     "TimeSortKey": 295
   },
   {
@@ -7128,28 +7128,6 @@
     "TimeSortKey": 310
   },
   {
-    "ID": 1443330,
-    "Flightnumber": "685",
-    "Airline": "Southwest Airlines",
-    "Destination": "MINN/ST.PAUL (MSP)",
-    "ScheduledTime": "2022-08-13T10:00:00Z",
-    "ScheduledDateTime": "10:00 AM",
-    "Terminal": "4",
-    "Gate": "D1",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "10:00 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948407",
-    "TimeSortKey": 311
-  },
-  {
     "ID": 1443337,
     "Flightnumber": "604",
     "Airline": "Sun Country Airlines",
@@ -7169,6 +7147,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/SY_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/SY_sml.png",
     "Topic": "2948406",
+    "TimeSortKey": 311
+  },
+  {
+    "ID": 1443330,
+    "Flightnumber": "685",
+    "Airline": "Southwest Airlines",
+    "Destination": "MINN/ST.PAUL (MSP)",
+    "ScheduledTime": "2022-08-13T10:00:00Z",
+    "ScheduledDateTime": "10:00 AM",
+    "Terminal": "4",
+    "Gate": "D1",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "10:00 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948407",
     "TimeSortKey": 312
   },
   {
@@ -7757,7 +7757,7 @@
     "ID": 1443424,
     "Flightnumber": "4232",
     "Airline": "Southwest Airlines",
-    "Destination": "ATLANTA (ATL)",
+    "Destination": "NASHVILLE (BNA)",
     "ScheduledTime": "2022-08-13T10:20:00Z",
     "ScheduledDateTime": "10:20 AM",
     "Terminal": "4",
@@ -7779,7 +7779,7 @@
     "ID": 1443424,
     "Flightnumber": "4232",
     "Airline": "Southwest Airlines",
-    "Destination": "NASHVILLE (BNA)",
+    "Destination": "ATLANTA (ATL)",
     "ScheduledTime": "2022-08-13T10:20:00Z",
     "ScheduledDateTime": "10:20 AM",
     "Terminal": "4",
@@ -8098,7 +8098,7 @@
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
-    "Estimated": "10:40 AM",
+    "Estimated": "10:32 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
@@ -8678,7 +8678,7 @@
     "ScheduledTime": "2022-08-13T11:00:00Z",
     "ScheduledDateTime": "11:00 AM",
     "Terminal": "4",
-    "Gate": "C12",
+    "Gate": "D14",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -8700,7 +8700,7 @@
     "ScheduledTime": "2022-08-13T11:00:00Z",
     "ScheduledDateTime": "11:00 AM",
     "Terminal": "4",
-    "Gate": "C12",
+    "Gate": "D14",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -8771,7 +8771,7 @@
     "ScheduledTime": "2022-08-13T11:00:00Z",
     "ScheduledDateTime": "11:00 AM",
     "Terminal": "4",
-    "Gate": "C12",
+    "Gate": "D14",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -8907,14 +8907,14 @@
     "ScheduledTime": "2022-08-13T11:10:00Z",
     "ScheduledDateTime": "11:10 AM",
     "Terminal": "4",
-    "Gate": "D7",
+    "Gate": "D11",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
     "CodeShares": [],
     "AD": "D",
     "Actual": "",
-    "Estimated": "11:15 AM",
+    "Estimated": "11:10 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
@@ -8951,14 +8951,14 @@
     "ScheduledTime": "2022-08-13T11:10:00Z",
     "ScheduledDateTime": "11:10 AM",
     "Terminal": "4",
-    "Gate": "D7",
+    "Gate": "D11",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
     "CodeShares": [],
     "AD": "D",
     "Actual": "",
-    "Estimated": "11:15 AM",
+    "Estimated": "11:10 AM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
@@ -9331,6 +9331,28 @@
     "TimeSortKey": 406
   },
   {
+    "ID": 1443396,
+    "Flightnumber": "4043",
+    "Airline": "Southwest Airlines",
+    "Destination": "SACRAMENTO (SMF)",
+    "ScheduledTime": "2022-08-13T11:35:00Z",
+    "ScheduledDateTime": "11:35 AM",
+    "Terminal": "4",
+    "Gate": "D13",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "11:35 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948455",
+    "TimeSortKey": 407
+  },
+  {
     "ID": 1443848,
     "Flightnumber": "2107",
     "Airline": "American Airlines",
@@ -9352,17 +9374,17 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948888",
-    "TimeSortKey": 407
+    "TimeSortKey": 408
   },
   {
-    "ID": 1443396,
-    "Flightnumber": "4043",
+    "ID": 1443392,
+    "Flightnumber": "4314",
     "Airline": "Southwest Airlines",
-    "Destination": "SACRAMENTO (SMF)",
+    "Destination": "ONTARIO (ONT)",
     "ScheduledTime": "2022-08-13T11:35:00Z",
     "ScheduledDateTime": "11:35 AM",
     "Terminal": "4",
-    "Gate": "D13",
+    "Gate": "C2",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -9373,8 +9395,8 @@
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948455",
-    "TimeSortKey": 408
+    "Topic": "2948451",
+    "TimeSortKey": 409
   },
   {
     "ID": 1443380,
@@ -9402,28 +9424,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2948454",
-    "TimeSortKey": 409
-  },
-  {
-    "ID": 1443392,
-    "Flightnumber": "4314",
-    "Airline": "Southwest Airlines",
-    "Destination": "ONTARIO (ONT)",
-    "ScheduledTime": "2022-08-13T11:35:00Z",
-    "ScheduledDateTime": "11:35 AM",
-    "Terminal": "4",
-    "Gate": "C2",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "11:35 AM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948451",
     "TimeSortKey": 410
   },
   {
@@ -9570,7 +9570,7 @@
     "ID": 1443394,
     "Flightnumber": "3548",
     "Airline": "Southwest Airlines",
-    "Destination": "COLORADO SPRINGS (COS)",
+    "Destination": "DALLAS (DAL)",
     "ScheduledTime": "2022-08-13T11:45:00Z",
     "ScheduledDateTime": "11:45 AM",
     "Terminal": "4",
@@ -9592,7 +9592,7 @@
     "ID": 1443394,
     "Flightnumber": "3548",
     "Airline": "Southwest Airlines",
-    "Destination": "DALLAS (DAL)",
+    "Destination": "COLORADO SPRINGS (COS)",
     "ScheduledTime": "2022-08-13T11:45:00Z",
     "ScheduledDateTime": "11:45 AM",
     "Terminal": "4",
@@ -9934,7 +9934,7 @@
     "ScheduledTime": "2022-08-13T11:55:00Z",
     "ScheduledDateTime": "11:55 AM",
     "Terminal": "4",
-    "Gate": "A30",
+    "Gate": "A29",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -10203,7 +10203,7 @@
     "ID": 1443867,
     "Flightnumber": "3778",
     "Airline": "Southwest Airlines",
-    "Destination": "SAN JOSE (SJC)",
+    "Destination": "SEATTLE (SEA)",
     "ScheduledTime": "2022-08-13T12:10:00Z",
     "ScheduledDateTime": "12:10 PM",
     "Terminal": "4",
@@ -10225,7 +10225,7 @@
     "ID": 1443867,
     "Flightnumber": "3778",
     "Airline": "Southwest Airlines",
-    "Destination": "SEATTLE (SEA)",
+    "Destination": "SAN JOSE (SJC)",
     "ScheduledTime": "2022-08-13T12:10:00Z",
     "ScheduledDateTime": "12:10 PM",
     "Terminal": "4",
@@ -10251,7 +10251,7 @@
     "ScheduledTime": "2022-08-13T12:10:00Z",
     "ScheduledDateTime": "12:10 PM",
     "Terminal": "4",
-    "Gate": "A29",
+    "Gate": "A30",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -10731,28 +10731,6 @@
     "TimeSortKey": 467
   },
   {
-    "ID": 1443440,
-    "Flightnumber": "928",
-    "Airline": "Alaska Airlines",
-    "Destination": "SEATTLE (SEA)",
-    "ScheduledTime": "2022-08-13T12:30:00Z",
-    "ScheduledDateTime": "12:30 PM",
-    "Terminal": "3",
-    "Gate": "E4",
-    "Status": "Now 12:19 PM",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "12:19 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
-    "Topic": "2948511",
-    "TimeSortKey": 468
-  },
-  {
     "ID": 1443457,
     "Flightnumber": "2959",
     "Airline": "Southwest Airlines",
@@ -10772,7 +10750,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948476",
-    "TimeSortKey": 469
+    "TimeSortKey": 468
   },
   {
     "ID": 1443863,
@@ -10796,6 +10774,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2948916",
+    "TimeSortKey": 469
+  },
+  {
+    "ID": 1443440,
+    "Flightnumber": "928",
+    "Airline": "Alaska Airlines",
+    "Destination": "SEATTLE (SEA)",
+    "ScheduledTime": "2022-08-13T12:30:00Z",
+    "ScheduledDateTime": "12:30 PM",
+    "Terminal": "3",
+    "Gate": "E4",
+    "Status": "Now 12:19 PM",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "12:19 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
+    "Topic": "2948511",
     "TimeSortKey": 470
   },
   {
@@ -11454,6 +11454,28 @@
     "TimeSortKey": 498
   },
   {
+    "ID": 1443427,
+    "Flightnumber": "6317",
+    "Airline": "American Airlines",
+    "Destination": "TULSA (TUL)",
+    "ScheduledTime": "2022-08-13T12:50:00Z",
+    "ScheduledDateTime": "12:50 PM",
+    "Terminal": "4",
+    "Gate": "B22",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "12:50 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2948487",
+    "TimeSortKey": 499
+  },
+  {
     "ID": 1443448,
     "Flightnumber": "1403",
     "Airline": "WestJet Airlines",
@@ -11475,35 +11497,13 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WS_sml.png",
     "Topic": "2948490",
-    "TimeSortKey": 499
-  },
-  {
-    "ID": 1443427,
-    "Flightnumber": "6317",
-    "Airline": "American Airlines",
-    "Destination": "TULSA (TUL)",
-    "ScheduledTime": "2022-08-13T12:50:00Z",
-    "ScheduledDateTime": "12:50 PM",
-    "Terminal": "4",
-    "Gate": "B22",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "12:50 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2948487",
     "TimeSortKey": 500
   },
   {
     "ID": 1443434,
     "Flightnumber": "3778",
     "Airline": "Southwest Airlines",
-    "Destination": "DALLAS (DAL)",
+    "Destination": "PANAMA CITY (ECP)",
     "ScheduledTime": "2022-08-13T12:50:00Z",
     "ScheduledDateTime": "12:50 PM",
     "Terminal": "4",
@@ -11525,7 +11525,7 @@
     "ID": 1443434,
     "Flightnumber": "3778",
     "Airline": "Southwest Airlines",
-    "Destination": "PANAMA CITY (ECP)",
+    "Destination": "DALLAS (DAL)",
     "ScheduledTime": "2022-08-13T12:50:00Z",
     "ScheduledDateTime": "12:50 PM",
     "Terminal": "4",
@@ -11568,28 +11568,6 @@
     "TimeSortKey": 503
   },
   {
-    "ID": 1443450,
-    "Flightnumber": "1969",
-    "Airline": "Southwest Airlines",
-    "Destination": "ORANGE COUNTY (SNA)",
-    "ScheduledTime": "2022-08-13T12:55:00Z",
-    "ScheduledDateTime": "12:55 PM",
-    "Terminal": "4",
-    "Gate": "D12",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "12:55 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948492",
-    "TimeSortKey": 504
-  },
-  {
     "ID": 1443449,
     "Flightnumber": "3419",
     "Airline": "Southwest Airlines",
@@ -11609,6 +11587,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948491",
+    "TimeSortKey": 504
+  },
+  {
+    "ID": 1443450,
+    "Flightnumber": "1969",
+    "Airline": "Southwest Airlines",
+    "Destination": "ORANGE COUNTY (SNA)",
+    "ScheduledTime": "2022-08-13T12:55:00Z",
+    "ScheduledDateTime": "12:55 PM",
+    "Terminal": "4",
+    "Gate": "D12",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "12:55 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948492",
     "TimeSortKey": 505
   },
   {
@@ -11712,7 +11712,7 @@
     "ScheduledTime": "2022-08-13T13:00:00Z",
     "ScheduledDateTime": "1:00 PM",
     "Terminal": "4",
-    "Gate": "A30",
+    "Gate": "A29",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -11839,6 +11839,28 @@
     "TimeSortKey": 515
   },
   {
+    "ID": 1443874,
+    "Flightnumber": "3744",
+    "Airline": "Southwest Airlines",
+    "Destination": "OAKLAND (OAK)",
+    "ScheduledTime": "2022-08-13T13:05:00Z",
+    "ScheduledDateTime": "1:05 PM",
+    "Terminal": "4",
+    "Gate": "D11",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "1:05 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948934",
+    "TimeSortKey": 516
+  },
+  {
     "ID": 1443872,
     "Flightnumber": "6299",
     "Airline": "American Airlines",
@@ -11860,28 +11882,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948931",
-    "TimeSortKey": 516
-  },
-  {
-    "ID": 1443874,
-    "Flightnumber": "3744",
-    "Airline": "Southwest Airlines",
-    "Destination": "OAKLAND (OAK)",
-    "ScheduledTime": "2022-08-13T13:05:00Z",
-    "ScheduledDateTime": "1:05 PM",
-    "Terminal": "4",
-    "Gate": "D11",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "1:05 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948934",
     "TimeSortKey": 517
   },
   {
@@ -11907,28 +11907,6 @@
     "TimeSortKey": 518
   },
   {
-    "ID": 1443874,
-    "Flightnumber": "3744",
-    "Airline": "Southwest Airlines",
-    "Destination": "SALT LAKE CITY (SLC)",
-    "ScheduledTime": "2022-08-13T13:05:00Z",
-    "ScheduledDateTime": "1:05 PM",
-    "Terminal": "4",
-    "Gate": "D11",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "1:05 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948934",
-    "TimeSortKey": 519
-  },
-  {
     "ID": 1443880,
     "Flightnumber": "3715",
     "Airline": "Southwest Airlines",
@@ -11948,6 +11926,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948932",
+    "TimeSortKey": 519
+  },
+  {
+    "ID": 1443874,
+    "Flightnumber": "3744",
+    "Airline": "Southwest Airlines",
+    "Destination": "SALT LAKE CITY (SLC)",
+    "ScheduledTime": "2022-08-13T13:05:00Z",
+    "ScheduledDateTime": "1:05 PM",
+    "Terminal": "4",
+    "Gate": "D11",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "1:05 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948934",
     "TimeSortKey": 520
   },
   {
@@ -12046,7 +12046,7 @@
     "ScheduledTime": "2022-08-13T13:15:00Z",
     "ScheduledDateTime": "1:15 PM",
     "Terminal": "4",
-    "Gate": "C12",
+    "Gate": "D13",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -12068,7 +12068,7 @@
     "ScheduledTime": "2022-08-13T13:15:00Z",
     "ScheduledDateTime": "1:15 PM",
     "Terminal": "4",
-    "Gate": "C12",
+    "Gate": "D13",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -12771,6 +12771,28 @@
     "TimeSortKey": 556
   },
   {
+    "ID": 1443896,
+    "Flightnumber": "4114",
+    "Airline": "Southwest Airlines",
+    "Destination": "ORANGE COUNTY (SNA)",
+    "ScheduledTime": "2022-08-13T13:40:00Z",
+    "ScheduledDateTime": "1:40 PM",
+    "Terminal": "4",
+    "Gate": "D12",
+    "Status": "Now 1:59 PM",
+    "StatusCode": "DL",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "1:59 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948944",
+    "TimeSortKey": 557
+  },
+  {
     "ID": 1443480,
     "Flightnumber": "891",
     "Airline": "Delta Air Lines",
@@ -12792,28 +12814,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2948518",
-    "TimeSortKey": 557
-  },
-  {
-    "ID": 1443896,
-    "Flightnumber": "4114",
-    "Airline": "Southwest Airlines",
-    "Destination": "ORANGE COUNTY (SNA)",
-    "ScheduledTime": "2022-08-13T13:40:00Z",
-    "ScheduledDateTime": "1:40 PM",
-    "Terminal": "4",
-    "Gate": "D12",
-    "Status": "Now 1:59 PM",
-    "StatusCode": "DL",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "1:59 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948944",
     "TimeSortKey": 558
   },
   {
@@ -13583,7 +13583,7 @@
     "ID": 1443907,
     "Flightnumber": "3539",
     "Airline": "Southwest Airlines",
-    "Destination": "HARLINGEN (HRL)",
+    "Destination": "HOUSTON (HOU)",
     "ScheduledTime": "2022-08-13T14:05:00Z",
     "ScheduledDateTime": "2:05 PM",
     "Terminal": "4",
@@ -13605,7 +13605,7 @@
     "ID": 1443907,
     "Flightnumber": "3539",
     "Airline": "Southwest Airlines",
-    "Destination": "HOUSTON (HOU)",
+    "Destination": "HARLINGEN (HRL)",
     "ScheduledTime": "2022-08-13T14:05:00Z",
     "ScheduledDateTime": "2:05 PM",
     "Terminal": "4",
@@ -13744,13 +13744,13 @@
     "ScheduledDateTime": "2:10 PM",
     "Terminal": "4",
     "Gate": "D6",
-    "Status": "On Time",
-    "StatusCode": "ON",
+    "Status": "Now 2:42 PM",
+    "StatusCode": "DL",
     "BagClaim": "",
     "CodeShares": [],
     "AD": "D",
     "Actual": "",
-    "Estimated": "2:15 PM",
+    "Estimated": "2:42 PM",
     "ChockTime": "",
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
@@ -13783,7 +13783,7 @@
     "ID": 1443526,
     "Flightnumber": "3035",
     "Airline": "Southwest Airlines",
-    "Destination": "EL PASO (ELP)",
+    "Destination": "HOUSTON (HOU)",
     "ScheduledTime": "2022-08-13T14:15:00Z",
     "ScheduledDateTime": "2:15 PM",
     "Terminal": "4",
@@ -13805,7 +13805,7 @@
     "ID": 1443526,
     "Flightnumber": "3035",
     "Airline": "Southwest Airlines",
-    "Destination": "HOUSTON (HOU)",
+    "Destination": "EL PASO (ELP)",
     "ScheduledTime": "2022-08-13T14:15:00Z",
     "ScheduledDateTime": "2:15 PM",
     "Terminal": "4",
@@ -13851,6 +13851,28 @@
     "TimeSortKey": 603
   },
   {
+    "ID": 1443908,
+    "Flightnumber": "507",
+    "Airline": "American Airlines",
+    "Destination": "CHARLOTTE (CLT)",
+    "ScheduledTime": "2022-08-13T14:18:00Z",
+    "ScheduledDateTime": "2:18 PM",
+    "Terminal": "4",
+    "Gate": "A23",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "2:18 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2948957",
+    "TimeSortKey": 604
+  },
+  {
     "ID": 1443478,
     "Flightnumber": "1845",
     "Airline": "United Airlines",
@@ -13872,28 +13894,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2948566",
-    "TimeSortKey": 604
-  },
-  {
-    "ID": 1443908,
-    "Flightnumber": "507",
-    "Airline": "American Airlines",
-    "Destination": "CHARLOTTE (CLT)",
-    "ScheduledTime": "2022-08-13T14:18:00Z",
-    "ScheduledDateTime": "2:18 PM",
-    "Terminal": "4",
-    "Gate": "A23",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "2:18 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2948957",
     "TimeSortKey": 605
   },
   {
@@ -14281,28 +14281,6 @@
     "TimeSortKey": 622
   },
   {
-    "ID": 1443922,
-    "Flightnumber": "4656",
-    "Airline": "Southwest Airlines",
-    "Destination": "SAN JOSE (SJC)",
-    "ScheduledTime": "2022-08-13T14:40:00Z",
-    "ScheduledDateTime": "2:40 PM",
-    "Terminal": "4",
-    "Gate": "D1",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "2:40 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948969",
-    "TimeSortKey": 623
-  },
-  {
     "ID": 1443931,
     "Flightnumber": "2076",
     "Airline": "Delta Air Lines",
@@ -14322,6 +14300,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2948968",
+    "TimeSortKey": 623
+  },
+  {
+    "ID": 1443922,
+    "Flightnumber": "4656",
+    "Airline": "Southwest Airlines",
+    "Destination": "SAN JOSE (SJC)",
+    "ScheduledTime": "2022-08-13T14:40:00Z",
+    "ScheduledDateTime": "2:40 PM",
+    "Terminal": "4",
+    "Gate": "D1",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "2:40 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948969",
     "TimeSortKey": 624
   },
   {
@@ -16701,6 +16701,28 @@
     "TimeSortKey": 727
   },
   {
+    "ID": 1443559,
+    "Flightnumber": "3186",
+    "Airline": "American Airlines",
+    "Destination": "SAINT GEORGE (SGU)",
+    "ScheduledTime": "2022-08-13T16:41:00Z",
+    "ScheduledDateTime": "4:41 PM",
+    "Terminal": "4",
+    "Gate": "B5",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "4:41 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "2948605",
+    "TimeSortKey": 728
+  },
+  {
     "ID": 1443565,
     "Flightnumber": "2291",
     "Airline": "American Airlines",
@@ -16723,28 +16745,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948603",
-    "TimeSortKey": 728
-  },
-  {
-    "ID": 1443559,
-    "Flightnumber": "3186",
-    "Airline": "American Airlines",
-    "Destination": "SAINT GEORGE (SGU)",
-    "ScheduledTime": "2022-08-13T16:41:00Z",
-    "ScheduledDateTime": "4:41 PM",
-    "Terminal": "4",
-    "Gate": "B5",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "4:41 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
-    "Topic": "2948605",
     "TimeSortKey": 729
   },
   {
@@ -18041,7 +18041,7 @@
     "ID": 1443972,
     "Flightnumber": "4618",
     "Airline": "Southwest Airlines",
-    "Destination": "CHICAGO - MIDWAY (MDW)",
+    "Destination": "ORLANDO (MCO)",
     "ScheduledTime": "2022-08-13T17:55:00Z",
     "ScheduledDateTime": "5:55 PM",
     "Terminal": "4",
@@ -18063,7 +18063,7 @@
     "ID": 1443972,
     "Flightnumber": "4618",
     "Airline": "Southwest Airlines",
-    "Destination": "ORLANDO (MCO)",
+    "Destination": "CHICAGO - MIDWAY (MDW)",
     "ScheduledTime": "2022-08-13T17:55:00Z",
     "ScheduledDateTime": "5:55 PM",
     "Terminal": "4",
@@ -18104,28 +18104,6 @@
     "TimeSortKey": 788
   },
   {
-    "ID": 1443981,
-    "Flightnumber": "3961",
-    "Airline": "Southwest Airlines",
-    "Destination": "LOUISVILLE (SDF)",
-    "ScheduledTime": "2022-08-13T17:55:00Z",
-    "ScheduledDateTime": "5:55 PM",
-    "Terminal": "4",
-    "Gate": "D1",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "5:55 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2949030",
-    "TimeSortKey": 789
-  },
-  {
     "ID": 1443570,
     "Flightnumber": "3304",
     "Airline": "Contour Airlines",
@@ -18145,7 +18123,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/LF_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/LF_sml.png",
     "Topic": "2948626",
-    "TimeSortKey": 790
+    "TimeSortKey": 789
   },
   {
     "ID": 1443982,
@@ -18167,6 +18145,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949031",
+    "TimeSortKey": 790
+  },
+  {
+    "ID": 1443981,
+    "Flightnumber": "3961",
+    "Airline": "Southwest Airlines",
+    "Destination": "LOUISVILLE (SDF)",
+    "ScheduledTime": "2022-08-13T17:55:00Z",
+    "ScheduledDateTime": "5:55 PM",
+    "Terminal": "4",
+    "Gate": "D1",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "5:55 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2949030",
     "TimeSortKey": 791
   },
   {
@@ -21264,28 +21264,6 @@
     "TimeSortKey": 925
   },
   {
-    "ID": 1444142,
-    "Flightnumber": "2163",
-    "Airline": "Air France",
-    "Destination": "LOS ANGELES (LAX)",
-    "ScheduledTime": "2022-08-13T19:41:00Z",
-    "ScheduledDateTime": "7:41 PM",
-    "Terminal": "",
-    "Gate": "",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "7:41 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AF_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AF_sml.png",
-    "Topic": "2949190",
-    "TimeSortKey": 926
-  },
-  {
     "ID": 1444062,
     "Flightnumber": "4605",
     "Airline": "Southwest Airlines",
@@ -21305,7 +21283,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949103",
-    "TimeSortKey": 927
+    "TimeSortKey": 926
   },
   {
     "ID": 1443650,
@@ -21327,7 +21305,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948679",
-    "TimeSortKey": 928
+    "TimeSortKey": 927
   },
   {
     "ID": 1444070,
@@ -21353,7 +21331,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2949104",
-    "TimeSortKey": 929
+    "TimeSortKey": 928
   },
   {
     "ID": 1444070,
@@ -21379,7 +21357,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2949104",
-    "TimeSortKey": 930
+    "TimeSortKey": 929
   },
   {
     "ID": 1443642,
@@ -21389,7 +21367,7 @@
     "ScheduledTime": "2022-08-13T19:50:00Z",
     "ScheduledDateTime": "7:50 PM",
     "Terminal": "4",
-    "Gate": "B26",
+    "Gate": "",
     "Status": "On Time",
     "StatusCode": "ON",
     "BagClaim": "",
@@ -21401,7 +21379,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948680",
-    "TimeSortKey": 931
+    "TimeSortKey": 930
   },
   {
     "ID": 1443638,
@@ -21423,7 +21401,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948681",
-    "TimeSortKey": 932
+    "TimeSortKey": 931
   },
   {
     "ID": 1444076,
@@ -21445,7 +21423,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949106",
-    "TimeSortKey": 933
+    "TimeSortKey": 932
   },
   {
     "ID": 1444063,
@@ -21469,7 +21447,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2949107",
-    "TimeSortKey": 934
+    "TimeSortKey": 933
   },
   {
     "ID": 1444074,
@@ -21491,7 +21469,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949108",
-    "TimeSortKey": 935
+    "TimeSortKey": 934
   },
   {
     "ID": 1444074,
@@ -21513,7 +21491,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949108",
-    "TimeSortKey": 936
+    "TimeSortKey": 935
   },
   {
     "ID": 1444053,
@@ -21539,7 +21517,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2949109",
-    "TimeSortKey": 937
+    "TimeSortKey": 936
   },
   {
     "ID": 1443627,
@@ -21563,7 +21541,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948682",
-    "TimeSortKey": 938
+    "TimeSortKey": 937
   },
   {
     "ID": 1443633,
@@ -21585,7 +21563,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
     "Topic": "2948684",
-    "TimeSortKey": 939
+    "TimeSortKey": 938
   },
   {
     "ID": 1444064,
@@ -21607,7 +21585,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949112",
-    "TimeSortKey": 940
+    "TimeSortKey": 939
   },
   {
     "ID": 1444081,
@@ -21629,7 +21607,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949110",
-    "TimeSortKey": 941
+    "TimeSortKey": 940
   },
   {
     "ID": 1444056,
@@ -21651,7 +21629,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949111",
-    "TimeSortKey": 942
+    "TimeSortKey": 941
   },
   {
     "ID": 1444064,
@@ -21673,7 +21651,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949112",
-    "TimeSortKey": 943
+    "TimeSortKey": 942
   },
   {
     "ID": 1444064,
@@ -21695,7 +21673,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949112",
-    "TimeSortKey": 944
+    "TimeSortKey": 943
   },
   {
     "ID": 1444056,
@@ -21717,7 +21695,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949111",
-    "TimeSortKey": 945
+    "TimeSortKey": 944
   },
   {
     "ID": 1443647,
@@ -21739,7 +21717,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948685",
-    "TimeSortKey": 946
+    "TimeSortKey": 945
   },
   {
     "ID": 1443634,
@@ -21763,7 +21741,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948688",
-    "TimeSortKey": 947
+    "TimeSortKey": 946
   },
   {
     "ID": 1444086,
@@ -21785,7 +21763,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949115",
-    "TimeSortKey": 948
+    "TimeSortKey": 947
   },
   {
     "ID": 1443643,
@@ -21810,7 +21788,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948686",
-    "TimeSortKey": 949
+    "TimeSortKey": 948
   },
   {
     "ID": 1444086,
@@ -21832,7 +21810,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949115",
-    "TimeSortKey": 950
+    "TimeSortKey": 949
   },
   {
     "ID": 1444086,
@@ -21854,7 +21832,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949115",
-    "TimeSortKey": 951
+    "TimeSortKey": 950
   },
   {
     "ID": 1443696,
@@ -21876,7 +21854,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
     "Topic": "2948715",
-    "TimeSortKey": 952
+    "TimeSortKey": 951
   },
   {
     "ID": 1443651,
@@ -21900,7 +21878,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948687",
-    "TimeSortKey": 953
+    "TimeSortKey": 952
   },
   {
     "ID": 1444065,
@@ -21924,7 +21902,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WS_sml.png",
     "Topic": "2949113",
-    "TimeSortKey": 954
+    "TimeSortKey": 953
   },
   {
     "ID": 1443631,
@@ -21948,7 +21926,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948689",
-    "TimeSortKey": 955
+    "TimeSortKey": 954
   },
   {
     "ID": 1443644,
@@ -21970,13 +21948,35 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948690",
+    "TimeSortKey": 955
+  },
+  {
+    "ID": 1444075,
+    "Flightnumber": "2759",
+    "Airline": "Southwest Airlines",
+    "Destination": "SAN DIEGO (SAN)",
+    "ScheduledTime": "2022-08-13T20:10:00Z",
+    "ScheduledDateTime": "8:10 PM",
+    "Terminal": "4",
+    "Gate": "D6",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "8:10 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2949118",
     "TimeSortKey": 956
   },
   {
     "ID": 1444075,
     "Flightnumber": "2759",
     "Airline": "Southwest Airlines",
-    "Destination": "SALT LAKE CITY (SLC)",
+    "Destination": "ST. LOUIS (STL)",
     "ScheduledTime": "2022-08-13T20:10:00Z",
     "ScheduledDateTime": "8:10 PM",
     "Terminal": "4",
@@ -22022,7 +22022,7 @@
     "ID": 1444075,
     "Flightnumber": "2759",
     "Airline": "Southwest Airlines",
-    "Destination": "ST. LOUIS (STL)",
+    "Destination": "SALT LAKE CITY (SLC)",
     "ScheduledTime": "2022-08-13T20:10:00Z",
     "ScheduledDateTime": "8:10 PM",
     "Terminal": "4",
@@ -22039,28 +22039,6 @@
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949118",
     "TimeSortKey": 959
-  },
-  {
-    "ID": 1444075,
-    "Flightnumber": "2759",
-    "Airline": "Southwest Airlines",
-    "Destination": "SAN DIEGO (SAN)",
-    "ScheduledTime": "2022-08-13T20:10:00Z",
-    "ScheduledDateTime": "8:10 PM",
-    "Terminal": "4",
-    "Gate": "D6",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "8:10 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2949118",
-    "TimeSortKey": 960
   },
   {
     "ID": 1444066,
@@ -22085,7 +22063,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/HA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/HA_sml.png",
     "Topic": "2949116",
-    "TimeSortKey": 961
+    "TimeSortKey": 960
   },
   {
     "ID": 1443640,
@@ -22109,7 +22087,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948692",
-    "TimeSortKey": 962
+    "TimeSortKey": 961
   },
   {
     "ID": 1443628,
@@ -22131,6 +22109,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948693",
+    "TimeSortKey": 962
+  },
+  {
+    "ID": 1443629,
+    "Flightnumber": "3543",
+    "Airline": "Southwest Airlines",
+    "Destination": "SALT LAKE CITY (SLC)",
+    "ScheduledTime": "2022-08-13T20:15:00Z",
+    "ScheduledDateTime": "8:15 PM",
+    "Terminal": "4",
+    "Gate": "D5",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "8:15 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948696",
     "TimeSortKey": 963
   },
   {
@@ -22156,28 +22156,6 @@
     "TimeSortKey": 964
   },
   {
-    "ID": 1443629,
-    "Flightnumber": "3543",
-    "Airline": "Southwest Airlines",
-    "Destination": "SALT LAKE CITY (SLC)",
-    "ScheduledTime": "2022-08-13T20:15:00Z",
-    "ScheduledDateTime": "8:15 PM",
-    "Terminal": "4",
-    "Gate": "D5",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "8:15 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948696",
-    "TimeSortKey": 965
-  },
-  {
     "ID": 1443649,
     "Flightnumber": "939",
     "Airline": "American Airlines",
@@ -22201,7 +22179,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948694",
-    "TimeSortKey": 966
+    "TimeSortKey": 965
   },
   {
     "ID": 1444071,
@@ -22229,7 +22207,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_sml.png",
     "Topic": "2949119",
-    "TimeSortKey": 967
+    "TimeSortKey": 966
   },
   {
     "ID": 1443652,
@@ -22251,7 +22229,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948697",
-    "TimeSortKey": 968
+    "TimeSortKey": 967
   },
   {
     "ID": 1443653,
@@ -22275,7 +22253,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948698",
-    "TimeSortKey": 969
+    "TimeSortKey": 968
   },
   {
     "ID": 1443637,
@@ -22297,7 +22275,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948699",
-    "TimeSortKey": 970
+    "TimeSortKey": 969
   },
   {
     "ID": 1444082,
@@ -22319,7 +22297,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949120",
-    "TimeSortKey": 971
+    "TimeSortKey": 970
   },
   {
     "ID": 1443641,
@@ -22344,7 +22322,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948700",
-    "TimeSortKey": 972
+    "TimeSortKey": 971
   },
   {
     "ID": 1444082,
@@ -22366,6 +22344,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949120",
+    "TimeSortKey": 972
+  },
+  {
+    "ID": 1443645,
+    "Flightnumber": "2294",
+    "Airline": "Southwest Airlines",
+    "Destination": "SEATTLE (SEA)",
+    "ScheduledTime": "2022-08-13T20:20:00Z",
+    "ScheduledDateTime": "8:20 PM",
+    "Terminal": "4",
+    "Gate": "C8",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "8:20 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948701",
     "TimeSortKey": 973
   },
   {
@@ -22391,28 +22391,6 @@
     "TimeSortKey": 974
   },
   {
-    "ID": 1443645,
-    "Flightnumber": "2294",
-    "Airline": "Southwest Airlines",
-    "Destination": "SEATTLE (SEA)",
-    "ScheduledTime": "2022-08-13T20:20:00Z",
-    "ScheduledDateTime": "8:20 PM",
-    "Terminal": "4",
-    "Gate": "C8",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "8:20 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948701",
-    "TimeSortKey": 975
-  },
-  {
     "ID": 1444082,
     "Flightnumber": "4560",
     "Airline": "Southwest Airlines",
@@ -22432,7 +22410,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949120",
-    "TimeSortKey": 976
+    "TimeSortKey": 975
   },
   {
     "ID": 1443658,
@@ -22454,7 +22432,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948702",
-    "TimeSortKey": 977
+    "TimeSortKey": 976
   },
   {
     "ID": 1443693,
@@ -22478,6 +22456,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948703",
+    "TimeSortKey": 977
+  },
+  {
+    "ID": 1443654,
+    "Flightnumber": "3511",
+    "Airline": "Southwest Airlines",
+    "Destination": "MILWAUKEE (MKE)",
+    "ScheduledTime": "2022-08-13T20:25:00Z",
+    "ScheduledDateTime": "8:25 PM",
+    "Terminal": "4",
+    "Gate": "C16",
+    "Status": "Now 9:00 PM",
+    "StatusCode": "DL",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "9:00 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948704",
     "TimeSortKey": 978
   },
   {
@@ -22503,28 +22503,6 @@
     "TimeSortKey": 979
   },
   {
-    "ID": 1443654,
-    "Flightnumber": "3511",
-    "Airline": "Southwest Airlines",
-    "Destination": "MILWAUKEE (MKE)",
-    "ScheduledTime": "2022-08-13T20:25:00Z",
-    "ScheduledDateTime": "8:25 PM",
-    "Terminal": "4",
-    "Gate": "C16",
-    "Status": "Now 9:00 PM",
-    "StatusCode": "DL",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "9:00 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948704",
-    "TimeSortKey": 980
-  },
-  {
     "ID": 1444068,
     "Flightnumber": "3421",
     "Airline": "Southwest Airlines",
@@ -22544,7 +22522,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949123",
-    "TimeSortKey": 981
+    "TimeSortKey": 980
   },
   {
     "ID": 1444083,
@@ -22575,7 +22553,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2949124",
-    "TimeSortKey": 982
+    "TimeSortKey": 981
   },
   {
     "ID": 1443699,
@@ -22599,7 +22577,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948705",
-    "TimeSortKey": 983
+    "TimeSortKey": 982
   },
   {
     "ID": 1443695,
@@ -22621,7 +22599,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948706",
-    "TimeSortKey": 984
+    "TimeSortKey": 983
   },
   {
     "ID": 1443683,
@@ -22643,7 +22621,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948708",
-    "TimeSortKey": 985
+    "TimeSortKey": 984
   },
   {
     "ID": 1443666,
@@ -22665,7 +22643,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948709",
-    "TimeSortKey": 986
+    "TimeSortKey": 985
   },
   {
     "ID": 1443689,
@@ -22689,7 +22667,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948707",
-    "TimeSortKey": 987
+    "TimeSortKey": 986
   },
   {
     "ID": 1444059,
@@ -22711,7 +22689,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949126",
-    "TimeSortKey": 988
+    "TimeSortKey": 987
   },
   {
     "ID": 1443659,
@@ -22733,7 +22711,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948710",
-    "TimeSortKey": 989
+    "TimeSortKey": 988
   },
   {
     "ID": 1443660,
@@ -22757,7 +22735,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948711",
-    "TimeSortKey": 990
+    "TimeSortKey": 989
   },
   {
     "ID": 1444084,
@@ -22784,7 +22762,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2949128",
-    "TimeSortKey": 991
+    "TimeSortKey": 990
   },
   {
     "ID": 1444061,
@@ -22810,7 +22788,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2949127",
-    "TimeSortKey": 992
+    "TimeSortKey": 991
   },
   {
     "ID": 1444054,
@@ -22832,7 +22810,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949129",
-    "TimeSortKey": 993
+    "TimeSortKey": 992
   },
   {
     "ID": 1444078,
@@ -22854,7 +22832,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949130",
-    "TimeSortKey": 994
+    "TimeSortKey": 993
   },
   {
     "ID": 1444145,
@@ -22876,7 +22854,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DE_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DE_sml.png",
     "Topic": "2949193",
-    "TimeSortKey": 995
+    "TimeSortKey": 994
   },
   {
     "ID": 1444072,
@@ -22898,7 +22876,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949131",
-    "TimeSortKey": 996
+    "TimeSortKey": 995
   },
   {
     "ID": 1444078,
@@ -22920,7 +22898,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949130",
-    "TimeSortKey": 997
+    "TimeSortKey": 996
   },
   {
     "ID": 1444079,
@@ -22942,7 +22920,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2949132",
-    "TimeSortKey": 998
+    "TimeSortKey": 997
   },
   {
     "ID": 1443661,
@@ -22964,7 +22942,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948712",
-    "TimeSortKey": 999
+    "TimeSortKey": 998
   },
   {
     "ID": 1443662,
@@ -22988,7 +22966,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948713",
-    "TimeSortKey": 1000
+    "TimeSortKey": 999
   },
   {
     "ID": 1444073,
@@ -23010,7 +22988,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949133",
-    "TimeSortKey": 1001
+    "TimeSortKey": 1000
   },
   {
     "ID": 1444073,
@@ -23032,7 +23010,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949133",
-    "TimeSortKey": 1002
+    "TimeSortKey": 1001
   },
   {
     "ID": 1443655,
@@ -23054,7 +23032,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948714",
-    "TimeSortKey": 1003
+    "TimeSortKey": 1002
   },
   {
     "ID": 1443668,
@@ -23076,7 +23054,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948717",
-    "TimeSortKey": 1004
+    "TimeSortKey": 1003
   },
   {
     "ID": 1443675,
@@ -23098,29 +23076,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
     "Topic": "2948716",
-    "TimeSortKey": 1005
-  },
-  {
-    "ID": 1444060,
-    "Flightnumber": "3837",
-    "Airline": "Southwest Airlines",
-    "Destination": "SACRAMENTO (SMF)",
-    "ScheduledTime": "2022-08-13T21:10:00Z",
-    "ScheduledDateTime": "9:10 PM",
-    "Terminal": "4",
-    "Gate": "C19",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "9:10 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2949135",
-    "TimeSortKey": 1006
+    "TimeSortKey": 1004
   },
   {
     "ID": 1443697,
@@ -23142,7 +23098,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948719",
-    "TimeSortKey": 1007
+    "TimeSortKey": 1005
   },
   {
     "ID": 1444088,
@@ -23164,7 +23120,29 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949134",
-    "TimeSortKey": 1008
+    "TimeSortKey": 1006
+  },
+  {
+    "ID": 1444060,
+    "Flightnumber": "3837",
+    "Airline": "Southwest Airlines",
+    "Destination": "SACRAMENTO (SMF)",
+    "ScheduledTime": "2022-08-13T21:10:00Z",
+    "ScheduledDateTime": "9:10 PM",
+    "Terminal": "4",
+    "Gate": "C19",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "9:10 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2949135",
+    "TimeSortKey": 1007
   },
   {
     "ID": 1443698,
@@ -23186,7 +23164,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948721",
-    "TimeSortKey": 1009
+    "TimeSortKey": 1008
   },
   {
     "ID": 1444088,
@@ -23208,6 +23186,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949134",
+    "TimeSortKey": 1009
+  },
+  {
+    "ID": 1443688,
+    "Flightnumber": "4112",
+    "Airline": "Southwest Airlines",
+    "Destination": "HOUSTON (HOU)",
+    "ScheduledTime": "2022-08-13T21:10:00Z",
+    "ScheduledDateTime": "9:10 PM",
+    "Terminal": "4",
+    "Gate": "D2",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "9:10 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2948720",
     "TimeSortKey": 1010
   },
   {
@@ -23239,28 +23239,6 @@
     "TimeSortKey": 1011
   },
   {
-    "ID": 1443688,
-    "Flightnumber": "4112",
-    "Airline": "Southwest Airlines",
-    "Destination": "HOUSTON (HOU)",
-    "ScheduledTime": "2022-08-13T21:10:00Z",
-    "ScheduledDateTime": "9:10 PM",
-    "Terminal": "4",
-    "Gate": "D2",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "D",
-    "Actual": "",
-    "Estimated": "9:10 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2948720",
-    "TimeSortKey": 1012
-  },
-  {
     "ID": 1443694,
     "Flightnumber": "1510",
     "Airline": "United Airlines",
@@ -23286,7 +23264,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2948744",
-    "TimeSortKey": 1013
+    "TimeSortKey": 1012
   },
   {
     "ID": 1443656,
@@ -23308,7 +23286,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948722",
-    "TimeSortKey": 1014
+    "TimeSortKey": 1013
   },
   {
     "ID": 1444055,
@@ -23333,7 +23311,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2949136",
-    "TimeSortKey": 1015
+    "TimeSortKey": 1014
   },
   {
     "ID": 1443684,
@@ -23355,7 +23333,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948723",
-    "TimeSortKey": 1016
+    "TimeSortKey": 1015
   },
   {
     "ID": 1444100,
@@ -23377,7 +23355,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949137",
-    "TimeSortKey": 1017
+    "TimeSortKey": 1016
   },
   {
     "ID": 1444100,
@@ -23399,7 +23377,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949137",
-    "TimeSortKey": 1018
+    "TimeSortKey": 1017
   },
   {
     "ID": 1444100,
@@ -23421,7 +23399,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949137",
-    "TimeSortKey": 1019
+    "TimeSortKey": 1018
   },
   {
     "ID": 1444116,
@@ -23446,7 +23424,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2949138",
-    "TimeSortKey": 1020
+    "TimeSortKey": 1019
   },
   {
     "ID": 1444117,
@@ -23470,7 +23448,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
     "Topic": "2949139",
-    "TimeSortKey": 1021
+    "TimeSortKey": 1020
   },
   {
     "ID": 1443663,
@@ -23494,7 +23472,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948724",
-    "TimeSortKey": 1022
+    "TimeSortKey": 1021
   },
   {
     "ID": 1444108,
@@ -23516,7 +23494,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949141",
-    "TimeSortKey": 1023
+    "TimeSortKey": 1022
   },
   {
     "ID": 1444095,
@@ -23541,7 +23519,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2949142",
-    "TimeSortKey": 1024
+    "TimeSortKey": 1023
   },
   {
     "ID": 1443679,
@@ -23563,7 +23541,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948725",
-    "TimeSortKey": 1025
+    "TimeSortKey": 1024
   },
   {
     "ID": 1444120,
@@ -23592,7 +23570,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2949143",
-    "TimeSortKey": 1026
+    "TimeSortKey": 1025
   },
   {
     "ID": 1444109,
@@ -23618,7 +23596,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_sml.png",
     "Topic": "2949144",
-    "TimeSortKey": 1027
+    "TimeSortKey": 1026
   },
   {
     "ID": 1443657,
@@ -23640,7 +23618,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948727",
-    "TimeSortKey": 1028
+    "TimeSortKey": 1027
   },
   {
     "ID": 1443690,
@@ -23662,7 +23640,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948726",
-    "TimeSortKey": 1029
+    "TimeSortKey": 1028
   },
   {
     "ID": 1444113,
@@ -23684,7 +23662,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AC_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AC_sml.png",
     "Topic": "2949145",
-    "TimeSortKey": 1030
+    "TimeSortKey": 1029
   },
   {
     "ID": 1444105,
@@ -23706,7 +23684,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949147",
-    "TimeSortKey": 1031
+    "TimeSortKey": 1030
   },
   {
     "ID": 1444096,
@@ -23730,7 +23708,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2949148",
-    "TimeSortKey": 1032
+    "TimeSortKey": 1031
   },
   {
     "ID": 1443669,
@@ -23754,7 +23732,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948728",
-    "TimeSortKey": 1033
+    "TimeSortKey": 1032
   },
   {
     "ID": 1443664,
@@ -23776,7 +23754,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948729",
-    "TimeSortKey": 1034
+    "TimeSortKey": 1033
   },
   {
     "ID": 1443665,
@@ -23805,7 +23783,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948730",
-    "TimeSortKey": 1035
+    "TimeSortKey": 1034
   },
   {
     "ID": 1444118,
@@ -23833,7 +23811,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2949149",
-    "TimeSortKey": 1036
+    "TimeSortKey": 1035
   },
   {
     "ID": 1444089,
@@ -23857,7 +23835,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2949150",
-    "TimeSortKey": 1037
+    "TimeSortKey": 1036
   },
   {
     "ID": 1443672,
@@ -23886,7 +23864,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2948739",
-    "TimeSortKey": 1038
+    "TimeSortKey": 1037
   },
   {
     "ID": 1443680,
@@ -23908,7 +23886,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948731",
-    "TimeSortKey": 1039
+    "TimeSortKey": 1038
   },
   {
     "ID": 1444111,
@@ -23930,7 +23908,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949154",
-    "TimeSortKey": 1040
+    "TimeSortKey": 1039
   },
   {
     "ID": 1444091,
@@ -23952,7 +23930,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949153",
-    "TimeSortKey": 1041
+    "TimeSortKey": 1040
   },
   {
     "ID": 1444111,
@@ -23974,7 +23952,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949154",
-    "TimeSortKey": 1042
+    "TimeSortKey": 1041
   },
   {
     "ID": 1444091,
@@ -23996,7 +23974,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949153",
-    "TimeSortKey": 1043
+    "TimeSortKey": 1042
   },
   {
     "ID": 1444110,
@@ -24023,7 +24001,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2949152",
-    "TimeSortKey": 1044
+    "TimeSortKey": 1043
   },
   {
     "ID": 1444111,
@@ -24045,7 +24023,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949154",
-    "TimeSortKey": 1045
+    "TimeSortKey": 1044
   },
   {
     "ID": 1444091,
@@ -24067,7 +24045,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949153",
-    "TimeSortKey": 1046
+    "TimeSortKey": 1045
   },
   {
     "ID": 1444122,
@@ -24089,7 +24067,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_sml.png",
     "Topic": "2949155",
-    "TimeSortKey": 1047
+    "TimeSortKey": 1046
   },
   {
     "ID": 1444112,
@@ -24111,7 +24089,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949159",
-    "TimeSortKey": 1048
+    "TimeSortKey": 1047
   },
   {
     "ID": 1444094,
@@ -24133,7 +24111,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949158",
-    "TimeSortKey": 1049
+    "TimeSortKey": 1048
   },
   {
     "ID": 1444093,
@@ -24155,7 +24133,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_sml.png",
     "Topic": "2949157",
-    "TimeSortKey": 1050
+    "TimeSortKey": 1049
   },
   {
     "ID": 1444094,
@@ -24177,7 +24155,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949158",
-    "TimeSortKey": 1051
+    "TimeSortKey": 1050
   },
   {
     "ID": 1444094,
@@ -24199,7 +24177,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949158",
-    "TimeSortKey": 1052
+    "TimeSortKey": 1051
   },
   {
     "ID": 1443667,
@@ -24221,7 +24199,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2948732",
-    "TimeSortKey": 1053
+    "TimeSortKey": 1052
   },
   {
     "ID": 1444097,
@@ -24246,7 +24224,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2949160",
-    "TimeSortKey": 1054
+    "TimeSortKey": 1053
   },
   {
     "ID": 1443670,
@@ -24270,7 +24248,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/B6_sml.png",
     "Topic": "2948733",
-    "TimeSortKey": 1055
+    "TimeSortKey": 1054
   },
   {
     "ID": 1444101,
@@ -24292,7 +24270,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949161",
-    "TimeSortKey": 1056
+    "TimeSortKey": 1055
   },
   {
     "ID": 1444101,
@@ -24314,7 +24292,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949161",
-    "TimeSortKey": 1057
+    "TimeSortKey": 1056
   },
   {
     "ID": 1443671,
@@ -24338,7 +24316,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2948734",
-    "TimeSortKey": 1058
+    "TimeSortKey": 1057
   },
   {
     "ID": 1444101,
@@ -24360,7 +24338,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949161",
-    "TimeSortKey": 1059
+    "TimeSortKey": 1058
   },
   {
     "ID": 1444101,
@@ -24382,7 +24360,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949161",
-    "TimeSortKey": 1060
+    "TimeSortKey": 1059
   },
   {
     "ID": 1443691,
@@ -24404,7 +24382,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948735",
-    "TimeSortKey": 1061
+    "TimeSortKey": 1060
   },
   {
     "ID": 1444106,
@@ -24432,7 +24410,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2949162",
-    "TimeSortKey": 1062
+    "TimeSortKey": 1061
   },
   {
     "ID": 1444119,
@@ -24454,7 +24432,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949165",
-    "TimeSortKey": 1063
+    "TimeSortKey": 1062
   },
   {
     "ID": 1444102,
@@ -24476,7 +24454,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949163",
-    "TimeSortKey": 1064
+    "TimeSortKey": 1063
   },
   {
     "ID": 1444119,
@@ -24498,7 +24476,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949165",
-    "TimeSortKey": 1065
+    "TimeSortKey": 1064
   },
   {
     "ID": 1444107,
@@ -24520,7 +24498,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949164",
-    "TimeSortKey": 1066
+    "TimeSortKey": 1065
   },
   {
     "ID": 1444107,
@@ -24542,6 +24520,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949164",
+    "TimeSortKey": 1066
+  },
+  {
+    "ID": 1444119,
+    "Flightnumber": "4506",
+    "Airline": "Southwest Airlines",
+    "Destination": "NORFOLK (ORF)",
+    "ScheduledTime": "2022-08-13T22:50:00Z",
+    "ScheduledDateTime": "10:50 PM",
+    "Terminal": "4",
+    "Gate": "C7",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "10:50 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2949165",
     "TimeSortKey": 1067
   },
   {
@@ -24567,28 +24567,6 @@
     "TimeSortKey": 1068
   },
   {
-    "ID": 1444119,
-    "Flightnumber": "4506",
-    "Airline": "Southwest Airlines",
-    "Destination": "NORFOLK (ORF)",
-    "ScheduledTime": "2022-08-13T22:50:00Z",
-    "ScheduledDateTime": "10:50 PM",
-    "Terminal": "4",
-    "Gate": "C7",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "10:50 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2949165",
-    "TimeSortKey": 1069
-  },
-  {
     "ID": 1444115,
     "Flightnumber": "3809",
     "Airline": "Southwest Airlines",
@@ -24608,7 +24586,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949168",
-    "TimeSortKey": 1070
+    "TimeSortKey": 1069
   },
   {
     "ID": 1444114,
@@ -24630,7 +24608,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949167",
-    "TimeSortKey": 1071
+    "TimeSortKey": 1070
   },
   {
     "ID": 1444123,
@@ -24656,7 +24634,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2949166",
-    "TimeSortKey": 1072
+    "TimeSortKey": 1071
   },
   {
     "ID": 1443681,
@@ -24680,7 +24658,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948736",
-    "TimeSortKey": 1073
+    "TimeSortKey": 1072
   },
   {
     "ID": 1444098,
@@ -24702,7 +24680,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_sml.png",
     "Topic": "2949169",
-    "TimeSortKey": 1074
+    "TimeSortKey": 1073
   },
   {
     "ID": 1443692,
@@ -24730,7 +24708,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2948737",
-    "TimeSortKey": 1075
+    "TimeSortKey": 1074
   },
   {
     "ID": 1444133,
@@ -24752,7 +24730,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949172",
-    "TimeSortKey": 1076
+    "TimeSortKey": 1075
   },
   {
     "ID": 1444133,
@@ -24774,29 +24752,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949172",
-    "TimeSortKey": 1077
-  },
-  {
-    "ID": 1444133,
-    "Flightnumber": "3525",
-    "Airline": "Southwest Airlines",
-    "Destination": "SACRAMENTO (SMF)",
-    "ScheduledTime": "2022-08-13T23:05:00Z",
-    "ScheduledDateTime": "11:05 PM",
-    "Terminal": "4",
-    "Gate": "C19",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "11:05 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2949172",
-    "TimeSortKey": 1078
+    "TimeSortKey": 1076
   },
   {
     "ID": 1444133,
@@ -24818,7 +24774,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949172",
-    "TimeSortKey": 1079
+    "TimeSortKey": 1077
   },
   {
     "ID": 1444103,
@@ -24840,7 +24796,29 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949171",
-    "TimeSortKey": 1080
+    "TimeSortKey": 1078
+  },
+  {
+    "ID": 1444133,
+    "Flightnumber": "3525",
+    "Airline": "Southwest Airlines",
+    "Destination": "SACRAMENTO (SMF)",
+    "ScheduledTime": "2022-08-13T23:05:00Z",
+    "ScheduledDateTime": "11:05 PM",
+    "Terminal": "4",
+    "Gate": "C19",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "11:05 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2949172",
+    "TimeSortKey": 1079
   },
   {
     "ID": 1443685,
@@ -24864,6 +24842,28 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948738",
+    "TimeSortKey": 1080
+  },
+  {
+    "ID": 1444128,
+    "Flightnumber": "4576",
+    "Airline": "Southwest Airlines",
+    "Destination": "CHICAGO - MIDWAY (MDW)",
+    "ScheduledTime": "2022-08-13T23:10:00Z",
+    "ScheduledDateTime": "11:10 PM",
+    "Terminal": "4",
+    "Gate": "C4",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "A",
+    "Actual": "",
+    "Estimated": "11:10 PM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
+    "Topic": "2949174",
     "TimeSortKey": 1081
   },
   {
@@ -24892,28 +24892,6 @@
     "ID": 1444128,
     "Flightnumber": "4576",
     "Airline": "Southwest Airlines",
-    "Destination": "CHICAGO - MIDWAY (MDW)",
-    "ScheduledTime": "2022-08-13T23:10:00Z",
-    "ScheduledDateTime": "11:10 PM",
-    "Terminal": "4",
-    "Gate": "C4",
-    "Status": "On Time",
-    "StatusCode": "ON",
-    "BagClaim": "",
-    "CodeShares": [],
-    "AD": "A",
-    "Actual": "",
-    "Estimated": "11:10 PM",
-    "ChockTime": "",
-    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
-    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
-    "Topic": "2949174",
-    "TimeSortKey": 1083
-  },
-  {
-    "ID": 1444128,
-    "Flightnumber": "4576",
-    "Airline": "Southwest Airlines",
     "Destination": "NEW ORLEANS (MSY)",
     "ScheduledTime": "2022-08-13T23:10:00Z",
     "ScheduledDateTime": "11:10 PM",
@@ -24930,7 +24908,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949174",
-    "TimeSortKey": 1084
+    "TimeSortKey": 1083
   },
   {
     "ID": 1444129,
@@ -24954,7 +24932,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2949175",
-    "TimeSortKey": 1085
+    "TimeSortKey": 1084
   },
   {
     "ID": 1444130,
@@ -24976,7 +24954,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949176",
-    "TimeSortKey": 1086
+    "TimeSortKey": 1085
   },
   {
     "ID": 1443686,
@@ -25000,7 +24978,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2948740",
-    "TimeSortKey": 1087
+    "TimeSortKey": 1086
   },
   {
     "ID": 1444131,
@@ -25027,7 +25005,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2949177",
-    "TimeSortKey": 1088
+    "TimeSortKey": 1087
   },
   {
     "ID": 1444135,
@@ -25049,7 +25027,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949179",
-    "TimeSortKey": 1089
+    "TimeSortKey": 1088
   },
   {
     "ID": 1444135,
@@ -25071,7 +25049,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949179",
-    "TimeSortKey": 1090
+    "TimeSortKey": 1089
   },
   {
     "ID": 1444135,
@@ -25093,7 +25071,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/WN_sml.png",
     "Topic": "2949179",
-    "TimeSortKey": 1091
+    "TimeSortKey": 1090
   },
   {
     "ID": 1443673,
@@ -25115,7 +25093,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948741",
-    "TimeSortKey": 1092
+    "TimeSortKey": 1091
   },
   {
     "ID": 1443682,
@@ -25142,7 +25120,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948742",
-    "TimeSortKey": 1093
+    "TimeSortKey": 1092
   },
   {
     "ID": 1444124,
@@ -25167,7 +25145,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2949180",
-    "TimeSortKey": 1094
+    "TimeSortKey": 1093
   },
   {
     "ID": 1443674,
@@ -25189,7 +25167,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
     "Topic": "2948743",
-    "TimeSortKey": 1095
+    "TimeSortKey": 1094
   },
   {
     "ID": 1444125,
@@ -25213,7 +25191,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2949181",
-    "TimeSortKey": 1096
+    "TimeSortKey": 1095
   },
   {
     "ID": 1443677,
@@ -25237,7 +25215,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/UA_sml.png",
     "Topic": "2948745",
-    "TimeSortKey": 1097
+    "TimeSortKey": 1096
   },
   {
     "ID": 1444121,
@@ -25259,7 +25237,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AC_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AC_sml.png",
     "Topic": "2949146",
-    "TimeSortKey": 1098
+    "TimeSortKey": 1097
   },
   {
     "ID": 1444126,
@@ -25283,7 +25261,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AS_sml.png",
     "Topic": "2949183",
-    "TimeSortKey": 1099
+    "TimeSortKey": 1098
   },
   {
     "ID": 1443687,
@@ -25305,7 +25283,7 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/F9_sml.png",
     "Topic": "2948747",
-    "TimeSortKey": 1100
+    "TimeSortKey": 1099
   },
   {
     "ID": 1443676,
@@ -25329,6 +25307,6 @@
     "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_lrg.png",
     "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/DL_sml.png",
     "Topic": "2948746",
-    "TimeSortKey": 1101
+    "TimeSortKey": 1100
   }
 ]

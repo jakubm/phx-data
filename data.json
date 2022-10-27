@@ -2581,7 +2581,7 @@
     "Gate": "D2",
     "Status": "Now 8:01 AM",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "8",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -2767,7 +2767,7 @@
     "Gate": "A27",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "5",
+    "BagClaim": "1",
     "CodeShares": [
       "ALASKA AIRLINES #6297"
     ],
@@ -2815,7 +2815,7 @@
     "Gate": "A2",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "5",
     "CodeShares": [
       "ALASKA AIRLINES #6859"
     ],
@@ -3189,7 +3189,7 @@
     "Gate": "B3",
     "Status": "On Time",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "3",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -3260,7 +3260,7 @@
     "Gate": "D8",
     "Status": "Now 7:58 AM",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "6",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -3425,7 +3425,7 @@
     "Gate": "C13",
     "Status": "Now 8:03 AM",
     "StatusCode": "ON",
-    "BagClaim": "",
+    "BagClaim": "4",
     "CodeShares": [],
     "AD": "A",
     "Actual": "",
@@ -29144,5 +29144,28 @@
     "Topic": "3034383",
     "TimeSortKey": 1216,
     "LineCode": "WN"
+  },
+  {
+    "ID": 1526214,
+    "Flightnumber": "1386",
+    "Airline": "American Airlines",
+    "Destination": "CHARLOTTE (CLT)",
+    "ScheduledTime": "2022-10-28T00:45:00Z",
+    "ScheduledDateTime": "October 28, 12:45 AM",
+    "Terminal": "4",
+    "Gate": "A22",
+    "Status": "On Time",
+    "StatusCode": "ON",
+    "BagClaim": "",
+    "CodeShares": [],
+    "AD": "D",
+    "Actual": "",
+    "Estimated": "October 28, 12:45 AM",
+    "ChockTime": "",
+    "LogoLarge": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_lrg.png",
+    "LogoSmall": "https://apps.skyharbor.com/images/FIDS_AIrline_logos/AA_sml.png",
+    "Topic": "3035030",
+    "TimeSortKey": 1217,
+    "LineCode": "AA"
   }
 ]
